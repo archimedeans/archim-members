@@ -10,7 +10,7 @@ past = ["2021_lent","2020_michaelmas","2020_easter","2020_lent", "2019_michaelma
 
 # TODO: Actually make this work rip
 
-def events(request):
+def events(request, term=None):
     return render(request, 'events/events.html')
   
 ###########

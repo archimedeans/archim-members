@@ -1,0 +1,155 @@
+1925 Brown, M.W., Q
+1925 Flanagan, B.T., PET
+1925 Tiskowsky, A., CC
+1926 White, G.R., PEM
+1926 Daniels, M.B., PET
+1926 Jocelyn, W.R., CTH
+1927 Thompson, J.R., PEM
+1927 Dow, J.B., PET
+1927 Marsh, R.J., Q
+1928 Agley, T.W., CC
+1928 Jacques, E., CTH
+1928 Black, M., Q
+1929 Addison, Q
+1929 Lathan, CC
+1929 Waddams, L.T., CTH
+1930 Strachan, C., CC
+1930 Waddams, L.T., CTH
+1930 Potter, A., PEM
+1932 Redfern, CTH
+1932 Strachan, C.S., CC
+1932 Grant, R., PEM
+1933 Petch, L., PET
+1933 Porter, R.I., Q
+1935 Whipple, R.T., PEM
+1935 Hallowed, D.M., Q
+1935 Dyson, E.J.W., CTH
+1935 Hosking, P.R., Miss, N
+1936 Sharpston, C.H., CC
+1936 Clifford, M., Miss, N
+1936 Herdman, D., Q
+1936 Harvey, A.D., CTH
+1937 Rudoe, W., PET
+1937 Coxon, A., Q
+1937 ?, CC
+1937 Harvey, A.D., CTH
+1937 Wallis, PEM
+1937 Clifford, M., Miss, N
+1938 Talbot, H.B., PET
+1938 Coxon, A., Q
+1938 Wyard, S.J., PEM
+1938 Bailey, M., Miss, N
+
+1946 Fowler, CC
+1946 Benneworth, Q
+1946 Armstrong, K.M., Miss, N
+1946 Gee, M.I., PEM
+1946 Read, CTH
+1947 Tanner, J.C., PET
+1947 Gee, G.I., PEM
+1947 W?, A.D., Miss, N
+1948 Tanner, J.C., PET
+1948 Crouin, D.E., Q
+1948 Martin, M.L., Miss, N
+1949 Seaton, R., PEM
+1949 Potter, L.W., Q
+1949 Hills, M.G., Miss, N
+1950 Braunholtz, T.G.H., PEM
+1950 Hawk, A.C., Miss, N
+1950 Fowlic, J.S., Q
+1951 Platt, V.J., Miss, N
+1951 Horrocks, A., Q
+1951 Orchard, N.L., PET
+1951 Watson, W.K.R., CC
+1952 Smith, J., Miss, N
+1952 Jenkin, F.P., Q
+1952 Watson, F.R., CTH
+1952 Elvin, R., CC
+1952 Diaper, N.R., PEM
+1953 Friggens, D.J., PET
+1953 Heald, L., CTH
+1953 Radley, D.E., Q
+1953 Day, D.J., CC
+1953 Hepburn, J.M., Miss, N
+1953 Barraclough, O.C., PEM
+1954 Mapley, J.M., Miss, N
+1954 Gear, C., PET
+1954 Walker, P., PEM
+1954 Kelley, J.C., Q
+1954 Lee, J.H.R., CTH
+1955 Dye, J.M., Miss, NH
+1955 Combes, J., Miss, N
+1955 Thorburn, A., PEM
+1955 Vaughan-Williams, R.W., Q
+1955 Norton, F.G.J., CC
+1955 Knight, C.J., CTH
+1956 Heffer, N., CC
+1956 Watkin, V., Miss, NH
+1956 Johnson, K., Miss, N
+1956 Warburton, A.E.A., PEM
+1956 Hodge, V., PET
+1956 Maddison, R.N., Q
+1956 Abrahams, S., CTH
+1957 Chapman, B.C., F
+1957 Johnson, K., Miss, N
+1957 Glennie, C.M., PET
+1957 Harrison, M.C., Q
+1957 Walker, J.G., CTH
+1957 Puttock, C.M., Miss, NH
+1958 Henderson, A., PET
+1958 Puttock, A., NH
+1958 Wardle, M., CTH
+1958 Sinha, S.K.
+1958 Henderson, A.
+1958 Strange, J.
+1958 Sutton, G.
+1958 Tyson, J.V.
+1959 Slater, B., Miss, N
+1959 Blight, B.J.N., CTH
+1959 Dominy, G., PEM
+1960 Blight, B.N., CTH
+1960 Pearson, J.R., N
+1960 Johnson, P., Miss, N
+1960 Dummet, P., Q
+1960 Hudson, J.P., F
+1961 Johnson, P., N
+1961 Hudson, P.D., F
+1961 Klein, T., Miss, N
+1962 Sullivan, C., Miss, N
+1962 Mandeville, A.N., CC
+1962 Taylor, I.B., PET
+1963 Radford, P.R., PEM
+1963 Stratford, D.K., SE
+1963 Moore, A.M., PET
+1963 Ellison, W.J., CTH
+1963 Ryecroft, M., SE
+1964 Hancock, J., Miss, N
+1964 Stratford, D.K., SE
+1964 Rycroft, M., SE
+1965 Round, D.V., CTH
+1965 Newth, C., Miss, N
+1965 Grant, J.S., SE
+1965 Moyles, J.L., PET
+1965 Viner, M.N., Miss, N
+1966 Moyles, J.L., PET
+1966 Colquhoun, J., CTH
+1966 Dennis, J.S., PET
+1967 Molley, G., Miss, N
+1967 Keen, J., Miss, N
+1967 Tuff, R.S.A., SE
+1968 Scorer, B., Miss, NH
+1968 Keene, J., N
+1968 Smith, J.
+1969 Eagle, A.H.
+1969 Barnes, S.
+1969 Russell, G.
+
+1975 Johnson, G., Miss, NH
+1975 Blow, D.J., CC
+1975 Speed, R.C.B., PET
+1975 Thorn, R.R., PET
+
+1982 Head, G., CC
+1982 Westbury, B.W., PET
+1983 Dawson, R., CC
+1988 Campbell, M., Q

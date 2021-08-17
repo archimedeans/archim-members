@@ -1,0 +1,76 @@
+{
+  "year": "2018",
+  "committee": [
+  {
+    "position": "President",
+    "name": "Yash Patel",
+    "college": "Pembroke",
+    "email": "president",
+    "photo": "yash"
+  },
+  {
+    "position": "Vice President",
+    "name": "Diogo Fonseca",
+    "college": "Pembroke",
+    "email": "vice-president",
+    "photo": "diogo"
+  },
+  {
+    "position": "External Secretary",
+    "name": "Lulu Beatson",
+    "college": "Murray Edwards",
+    "photo": "lulu",
+    "email": "secretary"
+  },
+  {
+    "position": "Internal Secretary",
+    "name": "Patrick Kennedy-Hunt",
+    "college": "St John's",
+    "email": "secretary",
+    "photo": "patrick"
+  },
+  {
+    "position": "Treasurer",
+    "name": "Jin Choi",
+    "college": "Pembroke",
+    "email": "junior-treasurer",
+    "photo": "jin"
+  },
+  {
+    "position": "Publicity Officer",
+    "name": "James Bolton",
+    "college": "Pembroke",
+    "email": "publicity"
+  },
+  {
+    "position": "Events Manager",
+    "name": "vacant",
+    "email": "events-manager"
+  },
+  {
+    "position": "Events Manager",
+    "name": "vacant"
+  },
+  {
+    "position": "Sponsorship Officer",
+    "name": "Anthony Kattuman",
+    "college": "St John's",
+    "email": "corporate-officer"
+  },
+  {
+    "position": "Webmaster",
+    "name": "Valentin Hübner",
+    "college": "Pembroke",
+    "email": "webmaster",
+    "photo": "valentin"
+  }
+  ],
+  "publications": [
+  {
+    "position": "Eureka Editor",
+    "name": "Valentin Hübner",
+    "college": "Pembroke",
+    "email": "eureka-editor"
+  }
+  ]
+}

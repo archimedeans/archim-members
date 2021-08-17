@@ -1,0 +1,18 @@
+{
+    "year": "2019",
+    "term": "Easter",
+    "events":[
+    {
+        "date": "2019-04-26",
+        "title": "Amalgamation",
+        "speaker": "Dr Paul Russell (University of Cambridge)",
+        "abstract": "Paul Erdős proved that there exist graphs with no short cycles requiring arbitrary many colours to colour their vertices so that no two adjacent vertices have the same colour. Unfortunately, the proof does not explicitly construct such graphs. A well known example sheet problem asks for an example in the simplest case, where we ban triangles–cycles of length 3. Such examples seem hard to find, and tend to contain many cycles of length 4. I shall discuss a solution to this problem by Nesetril and Rodl using their method of “amalgamation” which, while it is more complicated than other solutions, also allows us to ban longer cycles (and can do much more besides). No prior knowledge of graph theory is required."
+    },
+    {
+        "date": "2019-05-03",
+        "title": "The joy of associativity",
+        "speaker": "Prof. Victoria Gould (University of York)",
+        "abstract": "From our very first encounters with arithmetic, almost any operation we come across in mathematics is associative. Semigroup Theory provides the framework to study associativity, and reaches into many different areas of mathematics - classical algebra, formal languages, C<sup>∗</sup>-algebras, tropical algebra, decision problems and model theory, to name a few. I will introduce the audience to the topic of algebraic semigroup theory, some of its applications, and then the beautiful theory of biordered sets and their so-called free idempotent generated semigroups (FIGs). Groups are special semigroups (!) and each group possesses but one idempotent. A mystery still revealing itself is the tight correspondence between groups, biordered sets and FIGs. This talk will not assume any specialist knowledge."
+    }
+    ]
+}

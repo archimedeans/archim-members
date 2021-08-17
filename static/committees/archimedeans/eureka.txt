@@ -1,0 +1,155 @@
+ 1 3901 Collinson F J N/4
+ 1 3901 Hicks E P JN/3
+ 1 3901 Jackson A EM/3
+ 2 3905 Collinson F J N/4
+ 2 3905 Jackson A EM/3
+ 2 3905 Rudd J JE/1
+ 2 3905 Halliday D J CL/2 [BM]
+ 3 4001 Davies G BED/?
+ 3 4001 Paterson M W B CAI/3
+ 3 4001 Rudd J JE/2
+ 3 4001 Wood S E N/2
+ 3 4001 Halliday D J CL/3 [BM]
+ 3 4001 Toft D J G/2 [BM]
+ 4 4005 Davies G BED/?
+ 4 4005 Halliday D J CL/3
+ 4 4005 Paterson M W B CAI/3
+ 4 4005 Rudd J JE/2
+ 4 4005 Toft D J G/2
+ 4 4005 Wood S E N/2
+ 5 4101 Atkins K R T/2
+ 5 4101 Hansford J T JN/1
+ 5 4101 Oldroyd J G T/2
+ 5 4101 Scorer R S CC/?
+ 5 4101 Jones D E BED/?
+ 5 4101 Spikes K H N/1
+ 5 4101 Toft D J G/3
+ 5 4101 Wood S E N/3
+ 6 4105 Atkins K R T/2
+ 6 4105 Hansford J T JN/1
+ 6 4105 Oldroyd J G T/2
+ 6 4105 Jones D E BED/?
+ 6 4105 Spikes K H N/1
+ 6 4105 Spring-Rice T C G/2
+ 7 4203 Hansford J T JN/2
+ 7 4203 Skyrme T H R T/2
+ 7 4203 Spring-Rice T C G/3
+ 7 4203 Walker M G/1
+ 8 4402 Brodetsky P Q/2
+ 9 4704 Macbeath A M CL/2
+ 9 4704 Curtis A R JN/3 [Cttee]
+ 9 4704 Oldham A J CL/3 [Cttee]
+ 9 4704 Ruston A F SID/G [Cttee]
+ 9 4704 Scorer R S CC/G [Cttee]
+10 4803 Shephard G C Q/3
+10 4803 Baron R V T/4 [Cttee]
+10 4803 Macbeath A M CL/3 [Cttee]
+10 4803 Ruston A F SID/G [Cttee]
+11 4901 Shephard G C Q/3
+11 4901 Haselgrove G B K/G [Cttee]
+11 4901 Griffith J T/3 [Cttee]
+12 4910 Shephard G C Q/4
+12 4910 Haselgrove G B K/G [Cttee]
+12 4910 Leech J K/G [Cttee]
+13 5010 Toulmin G H PEM/5
+13 5010 Morgan M C JN/3 [Cttee]
+13 5010 Brenner S G/3 [Cttee]
+13 5010 Haselgrove C B K/F [Cttee]
+13 5010 Leech J K/G [Cttee]
+13 5010 Wheildon-Brown J N/3 [Cttee]
+14 5110 Toulmin G H PEM/6
+14 5110 Morgan M C JN/4 [Cttee]
+14 5110 Brenner S G/4 [Cttee]
+14 5110 Brown L J M G/4 [Cttee]
+14 5110 Haselgrove C B K/F [Cttee]
+14 5110 Leech J K/G [Cttee]
+14 5110 Mackay J P H T/2 [Cttee]
+14 5110 Wheildon-Brown J N/4 [Cttee]
+15 5210 Polkinghorne J C T/4
+15 5210 Harsant J D JE/3 [BM]
+15 5210 Brown L J M G/5 [Cttee]
+15 5210 Armstrong R G/2 [Cttee]
+16 5310 Polkinghorne J C T/5
+16 5310 Harsant J D JE/3 [BM]
+16 5310 Brew J M T/? [sales]
+16 5310 Armstrong R G/3 [Cttee]
+16 5310 Martin J L K/2 [Cttee]
+17 5410 Phillips O M T/G
+17 5410 Martin J L K/3 [BM]
+18 5511 Phillips O M T/F
+18 5511 Porteous I R T/2 [BM]
+19 5703 Monk D T/G
+19 5703 Porteous I R T/2 [BM]
+20 5710 Wall C T C T/4
+20 5710 Paterson A R T/2 [BM]
+21 5810 Wall C T C T/5
+21 5810 Paterson A R T/3 [BM]
+21 5810 Landshoff P V JN/3 [Cttee]
+21 5810 Blackburn D M JN/3 [Cttee]
+21 5810 Ross G J S T/2 [Cttee]
+22 5910 Fieldhouse M EM/6
+22 5910 Moffatt H K T/G [BM]
+23 6010 Fieldhouse M EM/7
+23 6010 Trustrum G B TH/6 [BM]
+24 6110 Davis A M J JN/5
+24 6110 Rodgers C D CAI/5 [BM]
+24 6110 Trustrum G B TH/7 [Adv]
+25 6210 Bray R W PEM/?
+25 6210 Rodgers C D CAI/6 [BM]
+25 6210 Prince J W M/5 [Adv]
+26 6310 Lee P M CHU/G
+26 6310 Taylor I B PET/3 [BM]
+26 6310 Prince J W M/5 [Adv]
+27 6410 Lee P M CHU/G
+28 6510 Stewart I N CHU/3
+29 6510 Barlow J C CHU/3 [BM]
+29 6610 Myerscough C J CHU/3
+29 6610 Lancashire D CHU/3 [BM]
+30 6710 Myerscough C J CHU/4
+30 6710 Barrett J J CHU/2 [BM]
+31 6810 Barrett J J CHU/3
+31 6810 Evans C D CHU/3 [BM]
+31 6810 Prior C R CHU/2 [Circ]
+32 6910 Prior C R CHU/3
+32 6910 Rose I H CHU/3 [BM]
+32 6910 Kemmer A N CHU/2 [Circ]
+33 7010 Kemmer A N CHU/3
+33 7010 Gardiner I M CHU/3 [BM]
+33 7010 McCredie I F CHU/2 [Circ]
+34 7110 McCredie I F CHU/3
+34 7110 Brewis R CHU/3 [BM]
+34 7110 Conlon J CHU/2 [Circ]
+35 7210 Conlon J CHU/3
+35 7210 Lose B ?/? [BM]
+36 7310 Miller D J EM/3
+36 7310 Vout C T/3 [SubEd]
+36 7310 Mellish M ?/? [BM]
+36 7310 Macey J JE/2 [Adv]
+37 7410 Pinch R G E T/3
+37 7410 Lyons T J T/3 [BM]
+37 7410 Chapman G I M/? [BM]
+38 7510 Pinch R G E T/4
+38 7510 Chapman G I M/? [BM]
+39 7804 Wasserman A J JN/3
+39 7804 Mason R C JN/2
+39 7804 DuVal D B JN/2 [BM]
+40 7906 Mason R C JN/3
+40 7906 DuVal D B JN/3
+41 8104 Corfield C N JN/3
+41 8104 Durbin R M JN/2
+41 8104 Westbury N C T/2 [BM]
+42 8206 Corfield C N JN/4
+42 8206 Durbin R M JN/3
+42 8206 Westbury N C T/3 [BM]
+43 8305 Boston N T/4
+43 8305 Budd C J JN/4
+43 8305 Chao R A S CAI/3 [BM]
+44 8402 Boston N T/5
+44 8402 Budd C J JN/5
+44 8402 Taylor P T/5
+44 8402 Chao R A S W/4 [BM]
+45 8501 Coleman M D T/G
+45 8501 Taylor P T/6
+45 8501 Welbourne E T/3
+45 8501 Hall I D JN/3 [BM]
+45 8501 Barnes N A CTH/1 [Adv]

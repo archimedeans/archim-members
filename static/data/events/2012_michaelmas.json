@@ -1,0 +1,72 @@
+{
+    "year": "2012",
+    "term": "Michaelmas",
+    "events": [
+    {
+        "date": "2012-10-09",
+        "time": "12pm",
+        "location": "Cockroft Lecture Theatre, New Museums Site",
+        "title": "Complex Sums in the Mathematical Tripos",
+        "speaker": "Dr Stephen Cowley (DAMTP)",
+        "abstract": ":Join us for our first talk of term - the Freshers' Talk. Complex numbers appear throughout mathematics. Learn what they are all about, and how to study complex sums."
+    },
+    {
+        "date": "2012-10-09",
+        "time": "1pm",
+        "title": "Freshers' Squash",
+        "location": "Small Examinations Hall, New Museums Site",
+        "abstract": "Meet new people, grab some free pizza, and of course, join the Archimedeans!"
+    },
+    {
+        "date": "2012-10-15",
+        "time": "1pm - 5pm",
+        "date": "2012-10-15",
+        "title": "Book Sale",
+        "location": "CMS Core",
+        "abstract": "Come along to buy maths books at highly reduced prices, and have some squash and biscuits."
+    },
+    {
+        "date": "2012-10-19",
+        "title": "Did Galois deserve to be shot?",
+        "speaker": "Dr Peter Neumann OBE (Oxford)",
+        "abstract": "&Eacute;variste Galois died aged 20 in 1832, shot in a mysterious early-morning duel. His ideas, after they were published fourteen years later, changed the direction of algebra and have had a huge influence on mathematics. In this talk we propose to explain something of his mathematical insights and legacy in non-technical terms, and why it seemed worthwhile to produce a meticulous bilingual edition of his writings."
+    },
+    {
+        "date": "2012-10-26",
+        "title": "Can you guess the next bit?",
+        "speaker": "Prof. Andrew Thomason (DPMMS)",
+        "abstract": "If you are given a string of numbers (say, binary digits), can you work out the next one in the sequence? If you are the Minister of Education in search of bracing exam questions you will say yes, otherwise you will say no. Nevertheless, there are times when a sequence looks random but it is possible to say what comes next. We shall mention some real-life applications but by and large the talk is about simple, though sometimes unexplained, properties of numbers."
+    },
+    {
+        "date": "2012-11-02",
+        "time": "6:30pm",
+        "title": "&lsquo;Pub&rsquo; Quiz",
+        "location": "CMS Central Core",
+        "abstract": "What better way to spend your Friday evening than to join us for a maths-themed pub quiz? Join up in teams and win prizes &ndash; a night of fun is a.s. guaranteed!</p><p> Quotes on account of how quiz is not held in a pub."
+    },
+    {
+        "date": "2012-11-09",
+        "title": "Cambridge Impronauts",
+        "abstract": "Will it be a continuous night of laughter? Will the humour have no upper bound? Will there be any maths references at all? Only the Impronauts (formerly Improvised Comedy Ents) have the answer!"
+    },
+    {
+        "date": "2012-11-16",
+        "title": "Bootstrap Percolation: Frivolous Questions and Daunting Problems",
+        "speaker": "Prof. B&eacute;la Bollob&aacute;s (DPMMS)",
+        "abstract": "Bootstrap percolation, introduced by Chalupa, Leath and Reich in 1979, is one of the simplest cellular automata. In the talk we shall present a selection of problems and results concerning it, from coffee-time questions to major results and unsolved problems."
+    },
+    {
+        "date": "2012-11-23",
+        "title": "Do you know how much you know?",
+        "speaker": "Prof. David Spiegelhalter OBE (Stats Lab)",
+        "abstract": "Your uncertainty can be quantified as a probability, but how can we tell whose probabilities are best? We will look at some theory of scoring rules for probabilistic predictions, and their applications in weather forecasting and other areas. And then we will measure your knowledge about your ignorance."
+    },
+    {
+        "date": "2012-11-28",
+        "title": "Scientific Christmas Party 2012",
+        "location": "All Bar One, St. Andrews Street",
+        "abstract": "We're ending the Michaelmas term in style, with a Scientific Christmas Party co-organised by The Archimedeans, CUPS and SciSoc!</p><p>The party will consist of a dinner buffet in All Bar One and is open only to members of any of the hosting societies - i.e. if you're not yet a member, but would like to attend the party, you need to become a member prior to your booking.</p><p> Tickets are &pound;13 drinking, &pound;10 non-drinking. Book at <a href=\"http://tinyurl.com/xmas-party-registration\" >http://tinyurl.com/xmas-party-registration</a>, and pay via one of the following methods:</p> <ol> <li>Cheque - Payable to 'The Archimedeans', send it to Colin Egan, Gonville and Caius College, with your name, CRSid/email and 'Scientific Christmas Party' on the back</li> <li>Bank Transfer - Account Name: The Archimedeans; Sort Code: 40-16-08; Account Number: 20116386;  please write your name and CRSid in the reference</li> <li>Cash - pay an Archimedeans Committee member directly.</li></ol>"
+    }
+    ]
+}
+

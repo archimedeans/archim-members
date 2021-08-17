@@ -1,0 +1,30 @@
+{
+    "year": "2019",
+    "term": "Lent",
+    "events":[
+    {
+        "date": "2019-01-25",
+        "title": "The geometry of groups",
+        "speaker": "Dr Ana Khukhro (University of Cambridge)",
+        "abstract": "Groups are extremely natural algebraic objects, allowing us to express the notion of symmetry in a mathematical language. While they can be studied in a purely algebraic or combinatorial way, groups truly come alive when imbued with geometry. We will talk about how to construct graphs from groups, the interactions between geometric and algebraic properties of groups, and some surprising applications, including how group theory can help you save money on cables."
+    },
+    {
+        "date": "2019-02-01",
+        "title": "Dividing squares into triangles",
+        "speaker": "Dr James Newton (King's College London)",
+        "abstract": "I will talk about Monsky's theorem, which says that a square cannot be divided into an odd number of triangles of equal area. The proof involves a weird (but fun) application of a non-archimedean distance function on the rational numbers; I'll spend some portion of the talk explaining what non-archimedean distance functions are and why they are as important (from some points of view) as the usual notion of distance between two numbers."
+    },
+    {
+        "date": "2019-02-22",
+        "title": "Modelling cellular gene expression via neural networks and bipartite graphs",
+        "speaker": "Dr Alessia Annibale (King's College London)",
+        "abstract": "Cell differentiation is one of the most fascinating areas of developmental biology. This was long thought to be an irreversible process, however it has been shown recently that it is possible to reprogramme fully differentiated cells into a state of induced pluripotency, which strongly resembles embryonic stem cells, via the introduction of a few transcription factors. This opens up exciting perspectives in the field of regenerative medicine, however, no universally accepted theory exists that explains the phenomena. The purpose of this work is to drive forward our understanding of cell reprogramming by introducing an analytical model for transitions between cell types. Inspired by neural networks theory, we model cell types as hierarchically organized dynamical attractors corresponding to cell cycles. Stages of the cell cycle are fully characterised by the configuration of gene expression levels, and reprogramming corresponds to triggering transitions between such configurations. Two mechanisms were found for reprogramming: cycle-state specific perturbations and a noise-induced switching. The former corresponds to a directed perturbation that induces a transition into a cycle-state of a different cell type in the potency hierarchy (e.g. a stem cell) whilst the latter is a priori undirected and could be induced, e.g. by a (stochastic) change in the cellular environment. In addition, the mechanism for the effective interactions arising between genes, is studied by means of a bipartite graph model, that integrates the genome and transcriptome into a single regulatory network. With this perspective, we are able to deduce important features of the regulatory network that exists in every cell type."
+    },
+    {
+        "date": "2019-03-01",
+        "title": "Thompson's chameleons: F, V, T",
+        "speaker": "Dr Andrew Duncan (Newcastle University)",
+        "abstract": "While working on problems in logic in the 1960's, Richard J. Thompson discovered a family of groups, now called F, T and V, which have simple definitions and give rise to many examples as well as tantalising problems. The groups were subsequently found to occur in several other guises: in work on infinite simple groups, homotopy and shape theory, group co-homology, dynamical systems, knot theory and analysis, and have been generalised in several different ways.<br />I will describe F,T and V, in a few different ways, outline some important features and describe one way in which they arise as dynamical systems."
+    }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "year": "2013",
+    "term": "Michaelmas",
+    "events": [
+    {
+        "date": "2013-10-14",
+        "title": "Mathematics and the Simpsons",
+        "speaker": "Dr. Simon Singh",
+        "time": "8pm",
+        "location": "Bristol-Myers Squibb Lecture Theatre, Department of Chemistry",
+        "abstract": "Simon Singh, author of Fermat's Last Theorem and Big Bang, talks about his latest book, which explores mathematical themes hidden in The Simpsons. Everyone knows that The Simpsons is the most successful show in television history, but very few people realise that its team of mathematically gifted writers have used the show to explore everything from calculus to geometry, from pi to game theory, and from infinitesimals to infinity. Singh will also discuss how writers of Futurama have similarly made it their missions to smuggle deep mathematical ideas into the series."
+    },
+    {
+        "date": "2013-10-15",
+        "title": "Geometry Through the Eyes of Physics",
+        "speaker": "Prof. David Tong (DAMTP)",
+        "location": "Cockroft Lecture Theatre, New Museums Site",
+        "time": "12-1pm",
+        "abstract": "Professor Tong will explain how ideas from quantum physics and string theory have resulted in new ways of thinking about the mathematics of geometry and topology."
+    },
+    {
+        "date": "2013-10-15",
+        "title": "Freshers' Squash",
+        "time": "1-2pm",
+        "location": "Small Examination Hall, New Museums Site",
+        "abstract": "Meet new people, grab some free pizza, and of course, join the Archimedeans!"
+    },
+    {
+        "date": "2013-10-18",
+        "title": "Solving Diophantine equations using invariant theory",
+        "speaker": "Dr. Tom Fisher (DPMMS)",
+        "abstract": "Classical invariant theory was something of an industry in the 19<sup>th</sup> century, first helping to create, and then being eclipsed by, modern abstract algebra. More recently the development of computer algebra has renewed interest in the classical explicit methods. I will explain how invariant theory can be used to help solve some problems in number theory."
+    },
+    {
+        "date": "2013-10-25",
+        "title": "How to Find (and Keep) a Wife",
+        "speaker": "Dr. Paul Russell (DPMMS)",
+        "abstract": "We consider applications of graph theory and combinatorics to the above problem. Hall's Marriage Theorem tells us when it is possible to marry off a group of men to a group of women in such a way that all are satisfied. But does there exist an algorithm to arrange the marriages in such a way that there will be no subsequent divorces? Yes, and it has been used in real life, but for the alternative purpose of assigning junior doctors to hospital places.  If time permits, the talk will move on to generalizations of the above to civil partnerships. For anyone who finds the content of this talk of no interest whatsoever, please note that there is an isomorphic talk entitled \"How to Find (and Keep) a Husband\"."
+    },
+    {
+        "date": "2013-11-01",
+        "title": "The Flying Trapezium Rule" ,
+        "speaker": "Prof. Nick Trefethen (Oxford)",
+        "abstract": "The trapezoidal or trapezium rule for calculating integrals is sometimes spectacularly accurate, for example if the integrand is smooth and periodic.  The mathematics of this effect is beautiful (the most powerful proof involves a complex contour integral), and the history is colourful (Poisson, Turing,...).  The super-accuracy of the trapezoidal rule is the basis of the most powerful algorithms known today for certain problems of computational science. And is it related mathematically to the Faraday cage effect, where a wire mesh shields one almost perfectly from electromagnetic fields?"
+    },
+    {
+        "date": "2013-11-08",
+        "title": "Hunter, Cauchy Rabbit and Optimal Kakeya Sets" ,
+        "speaker": "Dr. Perla Sousi (Statslab)",
+        "abstract": "A planar set that contains a unit segment in every direction is called a Kakeya set. These sets have been studied intensively in geometric measure theory and harmonic analysis since the work of Besicovich (1928); we find a new connection to game theory and probability. A hunter and a rabbit move on the integer points in [0,n) without seeing each other. At each step, the hunter moves to a neighbouring vertex or stays in place, while the rabbit is free to jump to any node. Thus they are engaged in a zero sum game, where the payoff is the capture time. The known optimal randomized strategies for hunter and rabbit achieve expected capture time of order n log n. We show that every rabbit strategy yields a Kakeya set; the optimal rabbit strategy is based on a discretized Cauchy random walk, and it yields a Kakeya set K consisting of 4n triangles, that has minimal area among such sets (the area of K is of order 1/log(n)).  Passing to the scaling limit yields a simple construction of a random Kakeya set with zero area from two Brownian motions.  (Joint work with Y. Babichenko, Y. Peres, R. Peretz and P. Winkler)."
+    },
+    {
+        "date": "2013-11-15",
+        "title": "Board Games and Pizza Night" ,
+        "time": "6.30-8.30pm",
+        "abstract": "Come along to the <em>CMS this Friday, 6.30-8.30pm</em>, for a <em>Board Games and Pizza Night!</em> We'll be in the <em>Pav D common room</em> with pizza, snacks, alcoholic/non-alcohol drinks and, of course, board games. Feel free to bring your own drinks and board games - especially board games! We need lots of board games. We'll be ordering pizza at 6.45pm so you should turn up before then if you're intending to eat pizza.</p><p> Please bring &pound;2 if you're a member or &pound;3 if you're not.</p><p> (A note on getting into the building: the doors should be open until 7.10pm, but if you arrive later someone will hopefully see you standing outside and let you in.)"
+    },
+    {
+        "date": "2013-11-22",
+        "title": "Card shuffling and phase transitions",
+        "speaker": "Dr. Nathanael Berestycki (Statslab)",
+        "abstract": "Suppose you are given a deck with 52 cards. It is intuitive that if you shuffle it sufficiently many times, the order of the cards will be random uniform. But how many times is enough? It turns out that this apparently naive question reveals a deep and striking phenomenon: the deck of card experiences a transition between a phase where it is &quot;far from random&quot; and one where it is &quot;very close to random&quot;. This is in fact very general and is analogous to the transition between the solid and liquid phases of water when the temperature passes 0C. The mathematics needed to describe this phenomenon will take us into a surprisingly large number of subjects, including probability, combinatorics, analysis, and representation theory."
+    },
+    {
+        "date": "2013-11-29",
+        "title": "Synchronization of Cilia",
+        "speaker": "Prof. Raymond Goldstein (DAMTP)",
+        "abstract": "<strong>CANCELLED</strong></p><p>From unicellular green algae to the lining of our respiratory systems are found hairlike appendages, known as cilia, whose coordinated beating results in transport of fluid essential for life. For decades there has been speculation about the origins of the synchronization seen in nature, but it is only recently that theory and experiments (mostly carried out here in DAMTP) have combined to provide quantitative analysis of this problem. This talk will describe the fascinating stochastic nonlinear dynamics underlying the synchronization problem."
+    }
+    ]
+}

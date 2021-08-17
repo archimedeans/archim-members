@@ -1,0 +1,64 @@
+{
+    "year": "2014",
+    "term": "Michaelmas",
+    "events": [
+    {
+        "date": "2014-10-09",
+        "title": "Solving Analogy Problems with Letter Sequences",
+        "speaker": "Professor Timothy Gowers",
+        "abstract": "Solving analogy problems with letter sequences, such as </p><p>abc is to aabbcc    as   uvw is to  ??</p><p>That's an easy problem, but there is a whole hierarchy of more and more interesting examples, and much of the talk would be about how to approach these problems systematically, which is challenging because every time you think you have a system, someone comes up with an analogy problem that has a natural solution that the system doesn't find."
+    },
+    {
+        "date": "2014-10-10",
+        "title": "How impossible is it to reconcile quantum logic with classical logic?",
+        "speaker": "Professor Gerard 't Hooft (Utrecht)",
+        "abstract": "The properties of the tiniest particles of nature (atoms, molecules and sub-atomic particles), are described by the theory of quantum mechanics. Often, quantum mechanics is said to require a reconsideration of our rules of logic, as if &quot;quantum logic&quot; were something else. A theorem by particle physicist John Bell is then used to &quot;prove&quot; that no local, classical, deterministic theory can exist to explain quantum behaviour. However, there is reason to doubt whether that is true. Lecturer will demonstrate that systems exist that are classical and quantum mechanical at the same time. Our world of elementary particles, described by the &quot;Standard Model&quot;, could be such a system, but how could it disobey Bell's theorem?"
+    },
+    {
+        "date": "2014-10-16",
+        "title": "Endowed with an Extra Sense: Mathematics and Evolution",
+        "speaker": "Professor Todd Parsons (France)",
+        "abstract": "Charles Darwin famously remarked &quot;I have deeply regretted that I did not proceed far enough at least to understand something of the great leading principles of mathematics; for men thus endowed seem to have an extra sense.&quot; Despite this, the importance of mathematics (and contributions from mathematicians and statisticians from Cambridge in particular) for the development of the modern theory of evolution is largely under-appreciated. In this talk, I will survey the essential contributions mathematics has made to the development of the modern evolutionary synthesis, from the seminal work of J. B. S. Haldane, R. A. Fisher, and Sewall Wright, to John Kingman's coalescent, to the present."
+    },
+    {
+        "date": "2014-10-23",
+        "title": "Pub Quiz"
+    },
+    {
+        "date": "2014-10-30",
+        "title": "Knots and surfaces",
+        "speaker": "Professor Ivan Smith",
+        "abstract": "A knot is an embedding of a circle into three-dimensional space. The study of knots, and of the surfaces that they bound, has surprising connections to three and four-dimensional topology, to numerous parts of algebra, and even to theoretical physics.  The talk will give a brief introduction first to knots themselves, and then to some of these wider connections."
+    },
+    {
+        "date": "2014-11-06",
+        "title": "What mathematics tell us about the nature of life ... more than 3,800,000,000 years ago!",
+        "speaker": "Professor Nigel Goldenfeld (UIUC)",
+        "abstract": "Relics of early life, preceding even the last universal common ancestor of all life on Earth, are present in the structure of the modern day canonical genetic code --- the map between DNA sequence and amino acids that form proteins. The code is not random, as often assumed, but instead is now known to have certain error minimisation properties. How could such a code evolve, when it would seem that mutations to the code itself would cause the wrong proteins to be translated, thus killing the organism? I address this paradox, originally due to Francis Crick, and show how dynamical systems theory leads to powerful insights about the nature of very early life that are beginning to be experimentally tested."
+    },
+    {
+        "date": "2014-11-13",
+        "title": "How to solve a problem by making it harder.",
+        "speaker": "Dr. Vicky Neale",
+        "abstract": "Surprisingly, sometimes the way to make progress on a mathematical problem is to tackle a harder problem instead.  I'll describe an example of such a problem from number theory."
+    },
+    {
+        "date": "2014-11-20",
+        "title": "The Geometry of Speech",
+        "speaker": "Professor John Aston",
+        "abstract": "Comparative linguistics, which aims to understand the relatedness of languages, has traditionally been a qualitative discipline examining written records. In this talk, we'll attempt to persuade you that maybe a mixture of functional analysis, non-parametric statistics and non-Euclidean geometry, with the odd acoustic signal thrown in, might be another way to go."
+    },
+    {
+        "date": "2014-11-27",
+        "title": "Scope of String Theory ",
+        "speaker": "Professor Michael Green",
+        "abstract": "According to string theory the different sub-atomic constituents of matter - the electron, the quarks and other elementary particles - are to be thought of as different modes of vibration of an extremely small string. This simple postulate not only has the potential to unify the fundamental particles, but leads naturally to a consistent description of the physical forces.  In recent times the mathematical structure of string theory has led to suggestions of how it might be applied to problems in areas of physics far removed from the ones it was originally intended for and that cannot be addressed by more conventional techniques. This talk will explain the background to the questions that string theory aims to address and give a non-technical description of properties of the theory."
+    },
+    {
+        "date": "2014-12-04",
+        "title": "The Mystery of Spinors",
+        "speaker": "Professor Michael Atiyah",
+        "abstract": "Spinors play a fundamental role in physics and in several areas of mathematics.  I will survey their history and their applications and I will delve into their deeper meaning.  I will avoid technicalities."
+    }
+    ]
+}

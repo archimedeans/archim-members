@@ -1,0 +1,48 @@
+{
+    "year": "2021",
+    "term": "Lent",
+    "events":[{
+        "date": "2021-01-22",
+        "speaker": "Kevin Buzzard (Imperial)",
+        "title":"What do we mean by equality?",
+        "link":"https://youtu.be/g2--VL2SkMo",
+        "abstract": "Have you ever read Euclid's \"common notions\", right at the beginning of book 1 of his Elements? Have you ever read the axioms of set theory? Have you ever read Grothendieck's EGA? Have you ever looked at Voevodsky's work at the IAS, where he was trying to understand work of Voevodsky pre-IAS? Have you ever tried to prove a theorem using a computer proof checker? Do you know what \"=\" means? It turns out that different mathematicians have different opinions about the matter. Basically, the more high-powered your definition is, the easier it is to cheat. I will talk about how to localise a commutative ring at a multiplicative subset, and how to define a scheme. I will explain all the algebra I need; the talk will be suitable for 1st years."
+    },{
+
+        "date": "2021-01-29",
+        "speaker": "Mark Levi (Pennsylvania State University)",
+        "link":"https://youtu.be/0PZPBbTjdrs",
+        "title":"A miscellany: mathematical insights through physical reasoning. ",
+        "abstract":"I will choose - with some input from the audience - a few short topics from the list below. Some of these are just for fun; a couple of others were eye-openers for me. Of course we will discuss only a subset determined by the choice of topics and by the time constraint.  Euler’s polyhedral formula E-V+F=2 proved using electric circuits (7 min) From Archimedes to Hamilton to Poincare: from the seesaw to telescopes to symplectic maps. (15-20 min) Upside-down equilibrium of a pendulum stabilized by the pivot’s rapid vibration. (5-10 min) Finding curvatures and areas using a bike (10 min) The shortest solution of the shortest time problem (the Bernoulli’s brachistochrone problem). (6 min) The Gauss-Bonnet formula and its proof using a bike wheel (20 min) A water-based proof of the Cauchy-Schwarz inequality (3-10 min depending on the level of detail). Finding roots of polynomials using flotation (5 min). What force keeps the spinning top up? (5 min) How to open a wine bottle with a book (3 min). No background beyond basic geometry is needed, even if you don’t know what a symplectic map is."
+    },{
+
+        "date": "2021-02-05",
+        "speaker": "Corinna Ulcigrai (University of Zurich)",
+        "title":"Billiards and butterflies",
+        "abstract":"How can we understand chaotic behaviour mathematically? A well popularized feature of chaotic systems is the butterfly effect: a small variation of initial conditions may lead to drastically different future evolutions. We will focus in this talk on mathematical billiards, an idealized model of many physical systems, and survey some of the recent advances in our understanding of their chaotic behaviour. We will in particular explore the connection between billiards in polygons with geometry and 'flat' surfaces and mention some recent breakthroughs, including the celebrated 'Magic Wand' theorem."
+
+    },{
+
+        "date": "2021-02-19",
+        "speaker": "Kathryn Mann (Cornell)",
+        "title":"Orderable groups and dynamics",
+        "abstract":"This talk will introduce you to some of my favorite groups, which are not the ones you typically see in an algebra class.  Rather, these are groups of transformations of spaces.  In many cases, there is a beautiful relationship between the algebraic structure of the group and the dynamics or qualitative behavior of the ways it can transform a space.  We'll explore a very special case of this: the relationship between an ordering on a group (an algebraic condition, which will explain) and how this group can be realized by continuous functions on the real line."
+
+    },{
+
+        "date": "2021-03-05",
+        "speaker": "Simon Peyton Jones (Microsoft Research, Cambridge)",
+        "title":"Excel meets Lambda",
+        "abstract":"The world's most widely used programming language is a purely functional language!  It's called Excel.  No mutable cells, assignment statements, or sequencing; just pure functions and immutable values.   But, despite its phenomenal success, considered as a programming language, Excel's formulas are very limited: they are largely restricted to scalar values, and you can't write new user-defined functions. Until now.  Excel has just released LAMBDA, in its full higher-order glory, just as Alonzo Church defined it in the 1930s.  That's pretty exciting, because now you can define new functions, which can call other lambda-defined functions, to arbitrary depth, and even recursively.  It represents a qualitative change not an incremental one: Excel just became Turing-complete. In this talk we'll sketch out what lambda calculus is and why it is important to the foundations of mathematics and logic.   Moving from theory to practice, we'll show the amazing things you can do using lambda, with Excel as our demo vehicle.   On the way, we'll describe the journey that led a few geeks at Microsoft Research Cambridge to influence one of the most widely used programs in history, and we'll show you some other ideas we've been playing around with."
+
+    },{
+
+        "date": "2021-03-12",
+        "speaker": "Sylvia Serfaty (Courant Institute, New York University)",
+        "title":"Games and PDEs",
+        "abstract":"In this talk, we will present the connection between some very simple games and solutions to Partial Differential Equations, following optimal control theory. This will include some classical cases and more recent examples. Knowledge of calculus and multivariable calculus is preferable."
+
+    }
+
+    ]
+}

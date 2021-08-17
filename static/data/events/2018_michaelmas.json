@@ -1,0 +1,48 @@
+{
+    "year": "2018",
+    "term": "Michaelmas",
+    "events":[
+    {
+        "date": "2018-11-09",
+        "title": "Black hole bombs",
+        "speaker": "Prof. Elizabeth Winstanley (University of Sheffield)",
+        "abstract": "Black holes are described mathematically as solutions of Einstein’s equations of general relativity. Among the many strange properties of black holes, I will explore the phenomenon of a “black hole bomb”, an instability which can arise when a black hole is perturbed by a scalar field. The ultimate fate of the black hole bomb is an open question, and I will discuss why this might be important, not only theoretically, but also for black holes in the universe."
+    },
+    {
+        "date": "2018-11-16",
+        "title": "Challenging Einstein's Theory",
+        "speaker": "Thomas Sotiriou (University of Nottingham)",
+        "abstract": "General Relativity is a very elegant theory that changed the way we think about gravitation and appears to be in perfect agreement with observations. For a period of almost 200 years, one could make the exact same statement about Newton's theory of gravity, and yet it came to be replaced by General Relativity. I will review how that happened and explain why one expects that General Relativity will have the same fate. I will then discuss current efforts to test General Relativity's predictions against observations."
+    },
+    {
+        "date": "2018-11-23",
+        "title": "The story of a theorem",
+        "speaker": "Dr Christopher Hughes (University of York)",
+        "abstract": "Just how do mathematicians create new mathematics? In this talk I will discuss the work of my recent MSc student, Chris Smith, and tell the story of how he proved his result, as well as show the result itself (which yields a new world record in the bound on the point where pi(x), the number of primes less than x, first exceeds li(x), the logarithmic integral). For undergraduates it can sometimes be hard to know about all the false starts, the serendipitous accidents, and the shear hard slog that goes into finding and publishing a new theorem, as in a lecture the result is often presented fait accompli. But in this talk we’ll spend time looking at the events that led to the result, from inception to completion."
+    },
+    {
+        "date": "2018-11-02",
+        "title": "On the role of probability in modelling financial markets",
+        "speaker": "Dr Eyal Neumann (Imperial College)",
+        "abstract": "In this talk we will focus on a ﬁeld of research within mathematical ﬁnance which known as market microstructure. This area of research deals with issues of market structure and design, price formation, transaction costs and investor behavior, among others. Modern ﬁnancial markets involve a range of participants who place buy and sell orders across a wide spectrum of time scales. We have pension funds that rebalance their portfolio on an annual basis, and on the other side of the scale, automated market-making algorithms and high frequency trading ﬁrms that submit several thousands of orders per second. In our research we use mathematical tools, mostly from probability theory and stochastic analysis, in order to model the behavior of these diﬀerent types of market participants, who are interacting with each other. From the analysis of the models, we often deduce explanations and quantitative description of various macro phenomena in the stock market. For example we design models in order to explain market volatility, price dynamics, transaction costs and to investigate the reasoning behind the repeated occurrence of ’ﬂash crashes’."
+    },
+    {
+        "date": "2018-10-26",
+        "title": "Rebuilding mathematics with topology",
+        "speaker": "Dr James Cranch (University of Sheffield)",
+        "abstract": "There are a number of ways in which topology intrudes into bits of mathematics where it apparently has no business whatsoever. I’ll give an example of this, and then ask the question: is it possible to do maths in such a way that topology is welcome from the beginning, rather than an unwanted late visitor? To attend this talk, you don’t have to know any topology: I’ll draw squiggles occasionally."
+    },
+    {
+        "date": "2018-10-19",
+        "title": "Linear subspaces of real matrices without rank one matrices",
+        "speaker": "Dr Kewei Zhang (University of Nottingham)",
+        "abstract": "The variational approach to material microstructure requires the understanding of ‘rank-one connections in 3×3 matrices’ and subspaces without rank one matrices. I will discuss some results related to these. I will talk about a bilinear inequality in Euclidean spaces, a maximal extension result of linear subspaces without rank-one matrices in the space of mxn real matrices, and a result on the largest dimension of subspaces of incompatible linear elastic strains."
+    },
+    {
+        "date": "2018-10-10",
+        "title": "Surely there's no ethics in mathematics?",
+        "speaker": "Maurice Chiodo (University of Cambridge)",
+        "abstract": "Mathematics is both the language and the instrument that connects our abstract understanding with the physical world, thus knowledge of mathematics quickly translates to substantial knowledge and influence on the way the world works. But those who have the greatest ability to understand and manipulate the world hold the greatest capacity to do damage and inflict harm. In this talk I’ll explain that yes, there is ethics in mathematics, and that it is up to us as mathematicians to make good ethical choices in order to prevent our work from becoming harmful."
+    }
+    ]
+}

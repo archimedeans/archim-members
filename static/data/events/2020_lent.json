@@ -1,0 +1,55 @@
+{
+    "year": "2020",
+    "term": "Lent",
+    "events":[
+    {
+        "date": "2020-01-17",
+        "speaker": "Prof. Alain Goriely (University of Oxford)",
+        "title": "Does maths matter to brain matter? The curious geometry of the brain",
+        "abstract": "The fascinating convolutions of the human brain are believed to be caused by mechanical forces generated in the rapid expansion of the cortex with respect to the subcortical areas of the brain. These intricate folded shapes have fascinated generations of scientists and mathematicians and have, so far, defied a complete description. How do they emerge? How are they arranged? How is the brain shape related to its function? In this talk, I will review our current understanding of brain morphogenesis and how it can be modelled. In particular, I will discuss an ideal version of this problem that can be solved exactly, underlying the beautiful interplay between (differential) geometry and mechanics in the shaping of our most intricate organ."
+    },
+
+    {
+        "date": "2020-01-24",
+        "speaker": "Prof. Nick Dorey (University of Cambridge)",
+        "title": "What is quantum field theory?",
+        "abstract": "Quantum field theory (QFT) has been very successful in describing nature, in some cases yielding the most precise agreement between experiment and theory ever achieved. It underlies our current understanding of high energy physics, cosmology and condensed matter physics. Despite this, the theory does not have a satisfactory first-principles definition. Even its most accurate predictions mentioned above, come from summing the first few terms of series which is ultimately divergent. I will review this problem and also review various ways in which QFT has influenced (and been influenced by) different areas of mathematics."
+    },
+    {
+        "date": "2020-01-31",
+        "title": "Dimensional Analysis: How to get something for (nearly) nothing",
+        "speaker": "Prof. Herbert Huppert (University of Cambridge)",
+        "abstract": "Physicists and mathematicians frequently encounter difficult, often nonlinear, problems. Often dimensional analysis can be employed to find either the correct answer directly or explain the main aspects of the solution. The talk will develop the mathematical background and then apply these to a number of situations including: a simple proof of Pythagoras’ theorem, the speed of animals running up hill, the speed of a boat with N oarsmen (N = 1, 2, 4, 8, …); how to judge weightlifting and other pursuits accurately without having to have classes of different weight, the rate of spread of an atomic eruption, …"
+    },
+    {
+        "date": "2020-02-07",
+        "speaker": "Prof. Colm-Cille Caulfield (University of Cambridge)",
+        "title": "A lot of hot air? The fluid mechanics of building ventilation",
+        "abstract": "Maintaining comfortable air quality inside buildings is essential to human health, well-being and productivity.<br>Indeed, a major component of global energy consumption is devoted to maintaining acceptable air temperature and quality in the built environment.<br>There has therefore been a significant effort to exploit the natural forces of wind and buoyancy to ventilate modern buildings well while minimising power demand, as in the Centre for Mathematical Sciences. As is unfortunately sometimes demonstrated in CMS , the effect of such natural forces can be non-intuitive, and can lead to non-optimal ventilation and energy demands. In this talk, I will show how important the application of mathematics is to understanding and optimising building ventilation, paying particular attention both to lessons from history and also (relatively) recent research in Cambridge."
+    },
+    {
+        "date": "2020-02-14",
+        "speaker": "Prof. Eric Lauga (University of Cambridge)",
+	"title": "The fluid mechanics in your daily life",
+	"abstract": "Many specialties of physics affect the way you live your life. Electromagnetism governs your internet access and how your breakfast burrito cooks in the microwave. Acoustics controls how you should select your seat in a lecture theatre. Gravity impacts how much pain you will endure the next time you fall of your bike. Thermodynamics explains how your fridge works.<br />In this talk, I will take you through the many aspects of your daily life, many of them seemingly mundane, which are governed by fluid mechanics. At the end of the talk, I am hoping that members of the audience will appreciate how viewing your daily life with a applied mathematician’s eye can reveal a lot of complex – and fun – scientific problems."
+    },
+    {
+        "date": "2020-02-21",
+        "speaker": "Dr Anthony Ashton (University of Cambridge)",
+        "title": "Green's functions: from physics to analysis",
+        "abstract": "Green's functions are ubiquitous throughout physics and applied mathematics. I will discuss some the history surrounding them, including Green's &quot;physical&quot; proof of the existence of the Dirichlet Green's function for the Laplacian. After this I'll move onto fundamental solutions for constant coefficient partial differential operators and some proofs of the Malgrange–Ehrenpreis theorem. I hope to keep technicalities to a minimum, so all welcome."
+    },
+    {
+        "date": "2020-02-28",
+        "speaker": "Prof. Gabriel Paternain (University of Cambridge)",
+        "title": "The non-abelian X-ray transform",
+        "abstract": "I will describe the mathematics that underpins new experiments designed to measure magnetic fields inside materials by shooting them with neutron beams from different directions, like in a CT scan. The problem is packed with some beautiful geometry and analysis, where the star of the show is a matrix in SO(3) obtained by solving a suitable linear ODE along straight lines in the plane. Very little will be needed to formulate and understand the problem: IA Differential Equations and Groups."
+    },
+    {
+        "date": "2020-03-06",
+        "speaker": "Prof. Richard Samworth (University of Cambridge)",
+        "title": "How Statistics is changing the world",
+        "abstract": "Even when data were relatively scarce in the 20th century, Statistics was already having enormous impact: think of the increase in global life expectancy due to randomised controlled trials, or the effect of the design of experiments on agricultural crop yields. These days, data are ubiquitous, and the potential of statistical methods is even greater, from driverless cars to medical imaging, and from climate change to cancer genetics. This talk will be a whistlestop tour of some of these developments, designed to highlight the demand and opportunities for well-trained, modern statisticians."
+    }
+    ]
+}

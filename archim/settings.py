@@ -16,7 +16,8 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
-    'members.apps.membersConfig',
+    'members.apps.MembersConfig',
+    'core.apps.CoreConfig',
     
     'django.contrib.admin',
     'django.contrib.auth',
@@ -86,5 +87,11 @@ USE_L10N = True
 USE_TZ = True
 
 STATIC_URL = '/static/'
+
+MEDIA_URL = '/media/'
+
+STATICFILES_DIRS = [
+    BASE_DIR / "static"
+]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

@@ -1,0 +1,49 @@
+{
+    "year": "2014",
+    "term": "Lent",
+    "events": [
+    {
+        "date": "2014-01-17",
+        "title": "Number theory from Gauss to Langlands",
+        "speaker": "Prof Tony Scholl (DPMMS)",
+        "abstract": "On 18<sup>th</sup> April 1796, Gauss discovered his first proof of the famous law of quadratic reciprocity. I will describe some of the background to this striking theorem, and explain how it has led to the development of a huge area of mathematics, culminating in the &quot;Langlands programme&quot;, a web of conjectures, mostly awaiting proof, linking aspects of number theory, geometry, representation theory and analysis."
+    },
+    {
+        "date": "2014-01-24",
+        "title": "The mathematics of aircraft noise and owls",
+        "speaker": "Prof Nigel Peake (DAMTP)",
+        "abstract": "Noise generation by aircraft (and onshore wind farms) is a big environmental issue. In nature, however, the owl has already solved the problem of silent flight. In this talk I will discuss some of the mathematics and physics of sound generation, and describe what we might learn from our feathered friends."
+    },
+    {
+        "date": "2014-01-31",
+        "title": "From images, corruption and resolution: a mathematical approach",
+        "speaker": "Dr Carola Schoenlieb (DAMTP)",
+        "abstract": "Restoring the original image contents from distorted measurements is one of the most important tasks in image processing.  It comprises the enhancement and reconstruction of images distorted by noise or blur (image denoising/deblurring), the filling-in of gaps in images (image inpainting) and the reconstruction of an image from noisy (and possible undersampled) Fourier/Radon measurements.  In this presentation we will discuss techniques from inverse problems, variational calculus and partial differential equations for the solution of some of these tasks. After spending some time on introducing the concept of such methods, some of their analytical and numerical challenges, we will get to know some recent advances in the field as well as challenges and open problems. All the mathematics you will see will be furnished with images from applications for image restoration, surface interpolation and MRI."
+    },
+    {
+        "date": "2014-02-03",
+        "title": "Randomness and continuum",
+        "speaker": "Prof Wendelin Werner (ETH Zurich)",
+        "abstract": "One can have a rather intuitive perception of the fact that space and time can be continuous, which is very directly related to the mathematical notion of continuity of functions.  On the other hand, when one thinks of random phenomena, the natural examples that first come to mind are of discrete nature, such as coin tossing.  The conceptual question on how &quot;randomness&quot; can be split up into and reassembled from infinitesimal little pieces turns out to be quite tricky. It is related to contemporary research in mathematics that we shall illustrate via some concrete examples."
+    },
+    {
+        "date": "2014-02-07",
+        "title": "Supersymmetry at the Large Hadron Collider",
+        "speaker": "Prof Ben Allanach (DAMTP)",
+        "abstract": "I shall describe the dark matter mystery, and we shall go on a speculative journey to solve it. Going back to the beginning of time, we shall witness the birth of a proton, following it through to the present day, where it ends up in the Large Hadron Collider at CERN. We shall revisit the Higgs boson discovery from last year. Finally, we shall see show how the collisions between protons at CERN might give us vital clues to solve the dark matter mystery."
+    },
+    {
+        "date": "2014-02-22",
+        "title": "Annual Dinner",
+        "time": "7pm",
+        "location": "Doubletree Hilton Hotel",
+        "abstract": "The Archimedeans would like to invite you to join us for our <b>annual dinner</b> on <b>Saturday 22<sup>nd</sup> February</b>. With a drinks reception and a 3 course meal complete with wine, it's sure to be an excellent evening.</p><ul> <li><b>Date:</b> Saturday 22<sup>nd</sup> February<br> </li> <li><b>Timings:</b>  7pm, Reception; 7:30pm, Dinner<br> </li> <li><b>Location:</b> Doubletree Hilton Hotel<br> </li> <li><b>Map:</b> <a href=\"http://tinyurl.com/btj8umc\"> http://tinyurl.com/btj8umc</a> <br> </li> <li><b>Booking Link:</b> <em>link removed</em><br> </li> <li><b>Price:</b> &pound;15 for members, &pound;20 for non-members <br> </li> <li><b>Booking and Payment Deadline:</b> Thursday 6<sup>th</sup> February <br> </li> <li><b>Dress Code:</b> Black tie preferred<br></li></ul><p> We're pleased to announce that this year we will be joined by Dr. Vicky Neale (DPMMS), who will be our guest speaker at the event. You'll also have the chance to invite your favourite lecturer or supervisor to dine with us. We have set aside 15 places for such honorary guests, so please think carefully and use your invitation wisely.</p><p> Payment details will be emailed to you automatically once you've submitted the form. Make sure you remember the <b>payment deadline</b> of <b>Thursday 6<sup>th</sup> February</b>."
+    },
+    {
+        "date": "2014-03-07",
+        "title": "Taylor's Theorem, Wrong On So Many Levels",
+        "speaker": "Prof Tom K&oumlrner (DPMMS)",
+        "abstract": "Of course, Taylor's theorem is both right (when correctly stated) and important.  However, I shall try to convince you that it is a great deal more subtle than is generally believed."
+    }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "year": "2018",
+    "term": "Easter",
+    "events": [
+    {
+        "date": "2018-05-03", 
+        "time": "6:30pm", 
+        "location": "Pavilion D",
+        "title": "Board Games and Pizza Night",
+        "abstract": "Traditionally well attended and popular with members, this event is a great way to relax for a couple of hours and get some tasty pizza!"
+    },
+    {
+        "date": "2018-06-14",
+        "time": "12:15 - 16:30",
+        "location": "CMS",
+        "title": "Garden Party",
+        "abstract": "<p>The Archimedeans are pleased to announce that our annual garden party will be taking place on the 14th of June at the CMS. Featuring a BBQ, strawberries, Pimms, origami and frisbee, the garden party is set to be the biggest maths society event of the year</p><p>Tickets are £8 for members and £10 for non-members, but make sure to get your tickets early because the first 35 tickets bought before the 31st of May are for the discounted price of £5!</p> Tickets are available <a href='http://archimedeans.tessera.info/'>here</a>"
+    }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "year": "2017",
+    "term": "Lent",
+    "events":[
+    {
+        "date": "2017-01-16", 
+        "title": "How Cambridge produced the most unpleasant mathmo of all time.",
+        "speaker": "Dr Piers Bursill-Hall",
+        "abstract": "Most Cambridge mathematicians are fairly pleasant people, if a little socially ... ah ... awkward. But by and large Mathmos, as a tribe, are fairly reasonable people with sort of middling tastes in most normal things, and reasonably easy to get on with, mod. minor quirks.  But there are some outliers, and this lecture will be about a strong candidate for the the most appalling and unpleasant mathematician of all time. It was a 'he', of course, and a Trinmo ... of course. And you know him all too well."
+    },
+    {
+        "date": "2017-01-26", 
+        "title": "Bezout’s theorem as a pathway to algebraic geometry",
+        "speaker": "Dr Julian Holstein",
+        "abstract": "In how many points do two curves in the plane intersect? This question has a very nice answer that is unfortunately not entirely true.  But sometimes in mathematics the answer to a question is so good that it is worth keeping, even if it is not correct. The new challenge is then to ask the question in a better way.</p><p> To find the right question in this case we will take a brief tour of algebraic geometry, meting both classical and modern ideas. If time permits we will even catch a brief glimpse of the cutting edge of theory in algebraic geometry."
+    },
+    {
+        "date": "2017-01-31", 
+        "title": "Manifolds",
+        "speaker": "Prof. Ciprian Manolescu (UCLA)",
+        "abstract": "Manifolds (spaces that look locally like R^n) are the basic objects of study in topology. In this talk I will describe what is known about their classification. I will mention the different versions of the Poincare conjecture, and also strange phenomena that appear in high dimensions: exotic smooth structures on the same manifold, and manifolds that cannot be triangulated."
+    },
+    {
+        "date": "2017-02-07",
+        "title": "Film Night (X + Y)",
+        "location": "Pembroke NCR",
+        "time": "7:30pm"
+    },
+    {
+        "date": "2017-02-24", 
+        "title": "Universal Properties: a categorical look at undergraduate algebra and topology",
+        "speaker": "Dr Julia Goedecke (DPMMS)",
+        "abstract": "Mostly without knowing, you have all already met lots of objects with universal properties throughout your undergraduate courses.  Working with the universal property of an object rather than its concrete implementation can have huge benefits: it gives an implementation-independent definition, which can therefore be used in many different mathematical areas at once. It also gives much greater conceptual clarity about the object in question and what role it plays within its area. In general, the concept of universal property is a very important one and crops up in nearly all areas of pure mathematics. My own field of category theory is the natural setting to investigate this concept. After a short introduction to the ideas of category theory I will spend most of the talk highlighting the universal properties of objects you are very familiar with, such as cartesian products and quotients, as well as giving you insight into a few you may not yet have met."
+    },
+    {
+        "date": "2017-03-05",
+        "title": "Archimedeans Annual Dinner",
+        "location": "Doubletree by Hilton Hotel",
+        "time": "6pm",
+        "photos": ["annual_dinner_2017_1", "annual_dinner_2017_2", "annual_dinner_2017_3"]
+    },
+    {
+        "date": "2017-03-09", 
+        "title": "Annual General Meeting",
+        "location": "Pembroke NCR",
+        "time": "7pm"
+    },
+    {
+        "date": "2017-03-10",
+        "title": "Aggregation and coalescence",
+        "speaker": "Prof. James Norris (Stats Lab)",
+        "abstract": "I will show how a simple model for random planar aggregation leads via some complex analysis to a continuum of coalescing random walks."
+    },
+    {
+        "date": "2017-03-11",
+        "title": "Annual Problems Drive",
+        "time": "2pm to 4pm",
+        "location": "MR4, CMS"
+    }
+    ]
+}

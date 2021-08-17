@@ -14,6 +14,7 @@ $ python manage.py createsuperuser # Follow the prompts
 $ python manage.py runserver
 ```
 
+You will also need to put the files in `static` at the root of the web server, so that they are not handled by Django
 
 ## Notes
 

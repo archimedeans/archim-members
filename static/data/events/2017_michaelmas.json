@@ -1,0 +1,70 @@
+{
+    "year": "2017",
+    "term": "Michaelmas",
+    "events":[
+    {
+        "date": "2017-10-11", 
+        "title": "The Novel Worldview Suggested by Quantum Gravity (Maxwell Lecture)",
+        "speaker": "Prof. Carlo Ravelli (CPT)",
+        "time": "8pm",
+        "location": "Bristol-Myers-Squibb Lecture Theatre, Department of Chemistry",
+        "abstract": "Time, space, matter, particles, field, observer, system, substance... all the basic notions of the elementary grammar of our understanding of the physical world are put into question, and modified, by the current research in quantum gravity. I discuss this momentum change, how compelling are its motivations, and the novel worldview I believe is emerging: a coherent picture of the world where &quot;time&quot; and &quot;space&quot; and &quot;objects&quot; are not among the primary notions anymore."
+    },
+    {
+        "date": "2017-10-13", 
+        "title": "Counting with Flair",
+        "speaker": "Prof. Béla Bollobás (Trinity College)",
+        "abstract": "This year we are celebrating the centenary of W.T. Tutte, the greatest codebreaker of WWII and one of the most influential mathematicians of the 20th century. In my talk, which will be accessible to all undergraduates, I shall present some of his beautiful results."
+    },
+    {
+        "date": "2017-10-19",
+        "title": "Pub Quiz",
+        "time": "7pm",
+        "location": "CMS Core",
+        "abstract": "A night of trivia at the CMS! Yes, we know it's not actually a pub. But there definitely will be a quiz, and the questions are accessible to non-mathmos. Bring a team, or join one on the day. Prizes available for winning teams!"
+    },
+    {
+        "date": "2017-10-20", 
+        "title": "Reinventing the wheel: what is the purpose of a proof?",
+        "speaker": "Dr. Vicky Neale (Oxford)",
+        "abstract": "Of course proofs are to tell us that theorems are true, but they’re about much more than that too. I'll share some of my favourite examples where the second (or third or fourth...) proof has been as significant as the first."
+    },
+    {
+        "date": "2017-10-24", 
+        "time": "7:30pm",
+        "location": "Doubletree by Hilton Hotel",
+        "title": "Metaswitch Networks Event",
+        "abstract": "The night will feature an insight into life at Metaswitch from the people that work here, games and competitions (with prizes!), a chance to meet Metaswitch employees from all levels of the business, plus FREE FOOD AND DRINK!"
+    },
+    {
+        "date": "2017-10-27", 
+        "title": "TBC",
+        "speaker": "Dr. Perla Sousi (Stats Lab)",
+        "abstract": "Currently a lecturer in the Statistical Laboratory, Dr. Sousi's research intersts lie in random walks, Brownian motion, mixing times of Markov chains, Poisson Brownian motions, rearrangement inequalities and dynamical percolation."
+    },
+    {
+        "date": "2017-11-03", 
+        "title": "TBC",
+        "speaker": "Dr. Tom Crawford",
+        "abstract": "TBC"
+    },
+    {
+        "date": "2017-11-10", 
+        "title": "Van Der Waerdan's Theorem",
+        "speaker": "Prof. Imre Leader (DPMMS)",
+        "abstract": "A lecturer at the DPMMS, Prof. Leader has in the past given excellent talks for our society such as &quot;High Dimensions&quot; and &quot;Eating and Racing&quot;. His research interests lie in extremal combinatorics and Ramsey theory."
+    },
+    {
+        "date": "2017-11-16", 
+        "time": "6:45",
+        "location": "CMS MR3",
+        "title": "Jane Street Estimathon", 
+        "abstract": "&quot;What's an Estimathon&quot; you ask?! It's a team contest where the goal is to create confidence intervals to difficult math and science questions. e.g., what's the volume of the earth's oceans (in cubic km); or, how many prime number contain strictly increasing digits.  It's a very interactive game and focuses on some ideas that are central to what we do at Jane Street: thinking about hard problems, assessing confidence levels, trying to strike a balance between quick-and-rough estimates versus more refined solutions."
+    },
+    {
+        "date": "2017-12-08",
+        "title": "Women in Trading and Technology (WITT) at Jane Street",
+        "abstract": "We're inviting women to spend two days in our London office from 8th to 9th of December to learn more about what we do and how we do it through a series of classes and activities.  Attendees will receive an in-depth look into the ways we use math and computer science, as well as insight into the different roles that exist within our firm."
+    }
+    ]
+}

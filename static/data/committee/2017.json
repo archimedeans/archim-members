@@ -1,0 +1,145 @@
+{
+  "year": "2017",
+  "committee": [
+  {
+    "position": "President",
+    "name": "Yanni Du",
+    "college": "Pembroke",
+    "email": "president",
+    "photo": "president",
+    "description": "I’m a third year mathmo at Pembroke college and my interests lie in probability and statistics. When I’m not doing maths I enjoy running, climbing and playing with Doug the dog. Also puns! One of my favourite puns/ jokes is: &quot;What do you call a male submerged swimmer who swims away exponentially?&quot; &quot;Diver-gent!&quot;"
+  },
+  {
+    "position": "Vice President",
+    "name": "Yash Patel",
+    "college": "Pembroke",
+    "email": "vice-president",
+    "description": "too cool"
+  },
+  {
+    "position": "External Secretary",
+    "name": "Eve Pound",
+    "college": "Murray Edwards",
+    "email": "secretary"
+  },
+  {
+    "position": "Internal Secretary",
+    "name": "Diogo Fonseca",
+    "college": "Pembroke",
+    "email": "secretary",
+    "description": "easily triggered by differing opinions on memes or music"
+  },
+  {
+    "position": "Treasurer",
+    "name": "Joe Needham",
+    "college": "Pembroke",
+    "email": "junior-treasurer",
+    "photo": "treasurer",
+    "description": "I'm Joe, the Treasurer, and I'm a second year mathmo at Pembroke. Whem I'm not failing to complete an example sheet, I enjoy playing football, running, and looking at pictures of my dogs."
+  },
+  {
+    "position": "Publicity Officer",
+    "name": "Zheneng Xie",
+    "college": "Magdalene",
+    "email": "publicity",
+    "description": "Hi! I'm Zheneng, a third year mathmo with an interest in Analysis and Statistics. When not studying I enjoy mystery novels and jogging. I'll be popping up a lot in your inboxes so please read my emails, and I'll hopefully see you at one of our events!"
+  },
+  {
+    "position": "Events Manager",
+    "name": "Jin Choi",
+    "college": "Pembroke",
+    "email": "events-manager",
+    "description": "naively pretentious"
+  },
+  {
+    "position": "Events Manager",
+    "name": "Yuen Ng",
+    "college": "Trinity",
+    "email": "events-manager",
+    "photo": "yuen.jpg",
+    "description": "Hi - I'm Yuen, a third year mathmo with a taste for creating and solving both puzzles and crossnumbers. Things that I like doing include: learning languages, seeing shows/concerts in Cambridge, catching up with friends, and occasionally playing piano."
+  },
+  {
+    "position": "Corporate Officer",
+    "name": "Vanessa Guo",
+    "college": "Queens'",
+    "email": "corporate-officer",
+    "photo": "corporate",
+    "description": "I am a third year Mathmo from Queens' college. My main interest lies in probability and statistics but I also quite enjoy Analysis and methods. Apart from  having fun in contemplating Maths problems, I like traveling and in particular good food with good friends along the way!"
+  },
+  {
+    "position": "Webmaster",
+    "name": "Dexter Chua",
+    "college": "Robinson",
+    "email": "webmaster",
+    "photo": "webmaster.png",
+    "description": "I'm a fourth year mathematician, mostly interested in category theory, geometry and type theory. I also have some side interests in physics and programming. I also enjoy hiking during my free time, but unfortunately Cambridge is too flat for that."
+  },
+  {
+    "position": "General Member",
+    "name": "Marc Isern",
+    "college": "Christ's"
+  },
+  {
+    "position": "General Member",
+    "name": "Kevin Lin",
+    "college": "King's",
+    "photo": "kevin",
+    "description": "Hi, I'm Kevin from King's. Yes, I know these information are already available the line above, but this is what happens when you are too lazy to write something and asks someone else to do it for you."
+  },
+  {
+    "position": "General Member",
+    "name": "Valentin H&uuml;bner",
+    "college": "Pembroke",
+    "description": "impulsive"
+  },
+  {
+    "position": "General Member",
+    "name": "Josh Osborne",
+    "college": "Pembroke",
+    "description": "intimidating"
+  },
+  {
+    "position": "General Member",
+    "name": "Tim Colpus",
+    "college": "Pembroke"
+  },
+  {
+    "position": "General Member",
+    "name": "Jeremy Taylor",
+    "college": "Pembroke",
+    "description": "things go over his head"
+  },
+  {
+    "position": "General Member",
+    "name": "Jonathan Lewis-Brown",
+    "college": "Pembroke"
+  }
+  ],
+  "publications": [
+  {
+    "position": "Eureka Editor",
+    "name": "Michael Grayling",
+    "college": "Sidney Sussex",
+    "email": "eureka-editor"
+  },
+  {
+    "position": "Eureka Assistant Editor",
+    "name": "Oliver Feng",
+    "college": "Trinity",
+    "email": "eureka-asst-editor"
+  },
+  {
+    "position": "Eureka Assistant Editor",
+    "name": "Robert Allen",
+    "college": "Homerton",
+    "email": "eureka-asst-editor"
+  },
+  {
+    "position": "Eureka Assistant Editor",
+    "name": "James Hodge",
+    "college": "Kings",
+    "email": "eureka-asst-editor"
+  }
+  ]
+}

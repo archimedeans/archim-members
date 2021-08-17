@@ -1,0 +1,49 @@
+{
+    "year": "2020",
+    "term": "Michaelmas",
+    "events":[{
+        "date": "2020-10-08",
+        "speaker": "Imre Leader ",
+        "title":"Latin Squares",
+        "abstract": "We'll investigate some interesting objects called Latin squares, which are arrays of numbers with certain properties. No knowledge of Latin is needed."
+    },{
+
+        "date": "2020-10-23",
+        "speaker": "Susan Murphy (Harvard)",
+        "link":"https://youtu.be/SkjOrldaEU0",
+        "title":"Causal Inference & Reinforcement Learning  in Digital Health",
+        "abstract": "Digital Interventions use smart devices (smartphones/wearables/virtual assistants) to deliver treatments to help individuals in their every-day life.  Examples of these treatments include suggestions about how to be more active in your current setting, reminders to take medications, guided mindfulness exercises and motivational messages.   However all of these treatments can interrupt your life--be a big hassle.   This talk is about collecting and using data to answer questions such as \"When and in which setting should an activity suggestion be sent so as to have the greatest positive impact on people? In what settings should activity suggestions not be sent?\"  These are all causal inference questions.  Here we discuss \"micro-randomized\" trials that provide data to address these causal questions.  We discuss  how the randomization probabilities are determined by online algorithms.  In one online algorithm, the randomization probabilities are determined by a \"reinforcement learning\" algorithm in which the randomization probability is higher in settings in which the individual is predicted to be more responsive and lower in settings in which the individual is less responsive."
+    },
+
+    {
+        "date": "2020-10-30",
+        "speaker": "Steven Strogatz (Cornell)",
+        "title":"Networks of oscillators that synchronize themselves ",
+        "link":"https://youtu.be/e5xxdNeNkmE",
+        "abstract": "Populations of coupled oscillators are pervasive in the natural world, from swarms of rhythmically flashing fireflies to groups of pacemaker cells in the heart. Some systems of oscillators have the amazing ability to synchronize themselves, such that all the oscillators end up firing in unison, no matter how disorganized they were at the start. In this (hopefully) entertaining Zoom talk, Prof. Strogatz will discuss the simplest mathematical model of a self-synchronizing system, the so-called Kuramoto model, and discuss how it behaves on different kinds of networks. Using techniques from nonlinear dynamics, numerical linear algebra, and computational algebraic geometry, we will discuss new bounds, conjectures, and open problems about the densest networks that do not always synchronize and the sparsest ones that do. This is joint work with Alex Townsend and Mike Stillman. Prerequisites for the talk: IA Differential Equations and Vectors & Matrices should be enough. The talk is based on this paper: https://arxiv.org/abs/1906.10627"
+    },
+    {
+        "date": "2020-11-06",
+        "speaker": "Barry Mazur (Harvard)",
+        "link": "https://youtu.be/u0MO_KKDenI",
+        "title": "Why study the arithmetic of curves?",
+        "abstract": "Questions about rational points on curves—the interplay of arithmetic and algebraic  geometry—have fascinated mathematicians from Diophantus to the present. I will mentiona few different current ways of proving a fundamental theorem in the subject, and how curious it is that we have such disparate avenues of approach. I will also talkabout conjectures, and an application to mathematical logic."
+    },
+    {
+        "date": "2020-11-13",
+        "speaker": "Ingrid Daubechies (Duke University)",
+        "title": "Mathematical imaging analysis with Art conservators",
+        "abstract": "Mathematics can help Art Historians and Art Conservators in studying and understanding art works, their manufacture process and their state of conservation. The presentation will review several instances of such collaborations in the last decade or so. Some of them led (and are still leading) to interesting new challenges in signal and image analysis. In other applications we can virtually rejuvenate art works, bringing a different understanding and experience of the art to museum visitors as well as to experts.",
+        "link":"https://youtu.be/CDWe5KWuQqk"
+    },
+    {
+        "date": "2020-11-20",
+        "speaker": "Richard Borcherds (University of California, Berkeley)",
+        "title": "Sporadic groups",
+        "abstract": "The longest published proof in mathematics, covering maybe around 20000 pages, is the classification of finite simple groups. It shows that every finite simple group is either contained in one of 18 infinite families, or is one of 26 exceptions called the sporadic groups, rangining in size from the Mathieu group M11 with 7920 elements to the Fischer-Griess monster group with 808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000 elements. This talk will describe some of these sporadic groups. It would be helpful to know what a group is.",
+        "link":"https://youtu.be/B4NSw_CSErM"
+    }
+
+
+    ]
+}

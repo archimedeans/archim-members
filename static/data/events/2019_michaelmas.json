@@ -1,0 +1,54 @@
+{
+    "year": "2019",
+    "term": "Michaelmas",
+    "events":[
+    {
+        "date": "2019-10-12",
+        "title": "Tricky limits and infinite pitfalls",
+        "speaker": "Dr O. Rath Spivack (University of Cambridge)",
+        "abstract": "This is the introductory talk for freshers. It will be held at <span style=\"color: red; font-weight: bold;\">12.10pm</span> in Babbage Lecture Theatre"
+    },
+    {
+        "date": "2019-10-18",
+        "title": "Mathematics of Turbulent Flows: A Million Dollars Problem!",
+        "speaker": "Prof. Edriss S. Titi (University of Cambridge)",
+        "abstract": "Turbulence is a classical physical phenomenon that has been a great challenge to mathematicians, physicists, engineers and computational scientists. In the end of the last century, chaos theory was developed to explore similar phenomena that occur in a wide range of applied sciences, but the eyes have always been on the big ball – Turbulence. Controlling and identifying the onset of turbulence have a great economic and industrial impact ranging from reducing the drag on cars and commercial airplanes to better design of fuel engines, weather and climate predictions. It is widely accepted by the scientific community that turbulent flows are governed by the Navier-Stokes equations, for large Reynolds numbers, i.e. when the nonlinear advective effects dominate the linear viscous effects (internal friction within the fluids) in the Navier-Stokes equations. As such, the Navier-Stokes equations form the main building block in any fluid model, in particular in global climate models. Whether the solutions to the three-dimensional Navier-Stokes equations remain smooth, indefinitely in time, is one of the most challenging mathematical problems. Therefore, by the turn of the millennium, it was identified by the Clay Institute of Mathematics as one of the seven most outstanding Millennium Problems in mathematics, and it has set one million US dollars prize for solving it. Notably, reliable computer simulations of turbulent flows is way out of reach even for the most powerful state-of-the art supercomputers. In this talk I will describe, using layman language, the main challenges that the different scientific communities are facing while attempting to attack this problem. In particular, I will emphasize the mathematical point of view of turbulence."
+    },
+    {
+        "date": "2019-10-25",
+        "title": "The classification of black holes",
+        "speaker": "Prof. Harvey Reall (DAMTP)",
+        "abstract": "I will provide a gentle introduction to the problem of classifying black hole solutions of the Einstein equation (the equation of motion of General Relativity). Uniqueness theorems proved in the 1970s indicate that, in three spatial dimensions, a time-independent black hole is described by the Kerr solution, which depends on just 2 parameters: the mass and angular momentum of the hole. However, in four spatial dimensions, there exist black holes with non-spherical topology as well as generalizations of the Kerr solution. Thus the classification problem is much more complicated in higher dimensions. I will describe the results that have been proved so far and the open problems that remain."
+    },
+    {
+        "date": "2019-10-30",
+        "title": "[Maxwell lecture] The modern bootstrap",
+        "speaker": "Professor J Cardy FRS, University of California, Berkeley",
+        "abstract": "This lecture is organised jointly with the Physics Society.<br><b>Time: 19:30 - 20:30. Location: Bristol-Meyers Squibb Lecture Theatre</b><br><br>The original idea of the bootstrap programme, which was popular in the 1960s especially in Cambridge, was that we can think of each ‘elementary’ particle as being made out of all the others, a notion called ‘nuclear democracy’. Thus, in principle, if we know everything about how protons scatter, we can predict everything about pions, and vice versa, thus ‘pulling ourselves up by our own bootstraps.’ This programme foundered (but not before giving birth to string theory), partly due to its technical difficulty, but mainly because of the success of the reductionist viewpoint of the quark model. However more recently the bootstrap has achieved great successes, not in the strong interactions, but in two- and three-dimensional theories which describe phase transitions in condensed matter, and I’ll describe some of these. You may read an overview on ‘the Bootstrap model’ here: https://en.wikipedia.org/wiki/Bootstrap_model About the Speaker: Professor John Lawrence Cardy FRS is a British-American theoretical physicist at the University of California, Berkeley. He is best known for his work in theoretical condensed matter physics and statistical mechanics, and in particular for research on critical phenomena and two-dimensional conformal field theory."
+    },
+    {
+        "date": "2019-11-01",
+        "title": "Schrödinger and his Equation",
+        "speaker": "Prof. Sir David Clary FRS (University of Oxford)",
+        "abstract": "Schrödinger’s equation is the central theory for describing the properties of atoms and molecules. It explains almost all experimental observables in chemistry and also in many other areas such as materials science and molecular biology. Schrödinger proposed his equation in 1926 but it is only quite recently that it has become possible to compute solutions with good accuracy for systems with many electrons. This talk will describe this progress and will also give an original view of the interesting time Schrödinger spent as a college fellow in Oxford in the 1930s."
+    },
+    {
+        "date": "2019-11-08",
+        "title": "Handles and Homotopies",
+        "speaker": "Prof. Jacob Rasmussen (University of Cambridge)",
+        "abstract": "A k-dimensional manifold is a topological space that locally looks like Rk. For example, the surface of a beach ball is a 2-dimensional manifold: if you cut a little piece out of it, you can flatten it out so it looks like a disk in the 2-dimensional plane. The surface of an inner tube (a torus) has the same property, so it is also a 2-manifold. These two spaces are locally the same (both look like R2) but globally different. Much of what we know about the topology of manifolds comes from the fact that they can be decomposed into simple pieces called handles. I’ll discuss these handle decompositions, where they come from, and some things they can tell us, both for 2-dimensional surfaces and in higher dimensions."
+    },
+    {
+        "date": "2019-11-22",
+        "title": "The Limits of Symmetric Computation",
+        "speaker": "Prof. Anuj Dawar (University of Cambridge)",
+        "abstract": "The most famous open problem in theoretical computer science, known as the P vs. NP problem challenges us to prove that for some natural search problems, no efficient algorithm is possible. At the moment, we have no idea how to prove such a statement. In order to make meaningful progress, we can restrict the class of algorithms we consider and show that, within these restrictions, no efficient algorithm exists. In this talk, I consider a natural restriction to symmetric algorithms. I explain how symmetries arise naturally in computational problems and why algorithms that respect these symmetries have inherent limitations. Many of our most powerful algorithmic techniques are symmetry preserving, while others are not. Exploring these limits offers a rich research agenda combining logic, algebra and combinatorics with algorithms."
+    },
+    {
+        "date": "2019-12-02",
+        "title": "Some elements of algebraic geometry",
+        "speaker": "Prof. Caucher Birkar (University of Cambridge)",
+        "abstract": "This talk will be held from 17:30–18:30 in MR2. It is jointly organised with the Trinity Mathematics Society.<br /><br />Algebraic geometry occupies a central place in modern mathematics. It has deep connections with various parts of mathematics. It is also deeply related to mathematical physics and has found applications in a wide range of topics. In this talk I will introduce some basics of algebraic geometry and then discuss some applications."
+    }
+    ]
+}

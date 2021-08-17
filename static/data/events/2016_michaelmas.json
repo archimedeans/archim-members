@@ -1,0 +1,43 @@
+{
+    "year": "2016",
+    "term": "Michaelmas",
+    "events":[
+    {
+        "date": "2016-10-07", 
+        "title": "High Dimensions", 
+        "speaker": "Prof. Imre Leader (DPMMS)",
+        "abstract": "It is hard enough to visualise complicated shapes in three dimensions, or indeed to visualise any shapes in four dimensions. What happens when the number of dimensions is much larger? In this talk, we will investigate some of the phenomena of &quot;high dimensions&quot;."
+    },
+    {
+        "date": "2016-10-13", 
+        "time": "8:00pm", 
+        "title": "Our Universe and Others (Maxwell Lecture)",
+        "speaker": "Lord Martin Rees (IoA)",
+        "abstract": "The illustrated talk will describe some recent discoveries about planets (around other stars as well as in our Solar System), black holes, galaxies and the big bang.</p><p>It will also speculate about whether 'our' big bang was the only one."
+    },
+    {
+        "date": "2016-10-20",
+        "time": "7:00pm",
+        "title": "Pub Quiz",
+        "abstract": "Come and see which team has the least bad popular culture knowledge! Not really. Most questions will be in some way maths-related, but a couple of rounds will be more in the style of a typical pub quiz question. Good fun and with a mystery prize up for grabs, the pub quiz is an event not to be missed."
+    },
+    {
+        "date": "2016-11-11", 
+        "title": "Number theory and dynamics: a how-to guide", 
+        "speaker": "Dr. Holly Krieger (DPMMS)",
+        "abstract": "Diophantine problems in number theory are among some of the easiest to state, and the most difficult to prove.  However, spectacular progress has been made on some of these problems by translating them to the theory of dynamical systems.  I will explain some of these connections, including the Oppenheim conjecture, Littlewood's conjecture, and the arithmetic of elliptic curves."
+    },
+    {
+        "date": "2016-11-18", 
+        "title": "Quantum Simulators with Polariton Graphs", 
+        "speaker": "Prof. Natalia Berloff (DAMTP)",
+        "abstract": "Several platforms were recently proposed for addressing problems whose complexity increases faster than polynomially with the number of variables or degrees of freedom in the system.  Many of these computationally intractable problems can be mapped into universal classical spin models such as the Ising and the XY models and simulated by a suitable physical system. I will talk about our recent theoretical and experimental effort in using a new hybrid light-matter particle, exciton-polariton, and polariton graphs as an effient simulator for finding the global minimum of the classical XY Hamiltonian."
+    },
+    {
+        "date": "2016-11-25",
+        "title": "Mathematical Thinking: Fast and Slow",
+        "speaker": "Prof. Martin Hyland (DPMMS)",
+        "abstract": "It is generally agreed that the aim of a mathematics education should be at least inter alia to develop mathematical thinking. However people have very different ideas as to what mathematical thinking is and what kind of education best encourages it.</p><p>In 2011, the psychologist Daniel Kahneman published Thinking, Fast and Slow, a book in which he explained for a general audience the main elements of the empirical work on decision making for which he had received the Nobel Memorial Prize in Economic Sciences in 2002. Kahneman's distinction between thinking fast and slow may help us better appreciate the main features of mathematical thinking. I shall give examples of mathematical thinking in elementary mathematics and discuss what - beyond the mathematics - we can learn from them."
+    }
+    ]
+}

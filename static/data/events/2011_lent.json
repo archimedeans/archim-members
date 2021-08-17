@@ -1,0 +1,49 @@
+{
+    "year": "2011",
+    "term": "Lent",
+    "events": [
+    {
+        "date": "2011-01-21",
+        "title": "Diophantine Equations",
+        "speaker": "Professor Samir Siksek (Warwick)",
+        "abstract": "In his unique and appealing style, Prof. Siksek will shed light on the following questions:</p><p>(i) Given a Diophantine equation, what information can be obtained by following the strategy of Wiles' proof of Fermat's Last Theorem?</p><p>(ii) Is it useful to combine this approach with older approaches to Diophantine equations such as Baker's Theory."
+    },
+    {
+        "date": "2011-01-26",
+        "time": "6:30pm",
+        "title": "Triennial Dinner",
+        "location": "Crowne Plaza (Downing Street)",
+        "abstract": "Champagne Reception: 6:30pm</p><p>Dress Code: Black Tie</p><p>Dine in style with an exquisite three course meal at the <b>Crowne Plaza</b>, in recognition of another three years of The Archimedeans' success (or for the 2<sup>nd</sup> years, the end of their CATAM projects!).</p><p>Fabulous food, a champagne reception and inclusion of wine, all at a <b>heavily</b> discounted price of &pound;15 (&pound;20 for non-members), make this evening a wonderful start to the term.</p><p> Places are limited, so please email <a href=\"mailto:archim-events-manager@srcf.net\">The Events Manager</a> to reserve yours.  As seating is pre-arranged, please include the names of the people with whom you would like to sit.</p><p> IMPORTANT: If you have dietary requirements that we need to accommodate, you must reserve your place and inform us by 3pm, Thursday 20<sup>th</sup> January.</p><p>To confirm your reservation, please pay by midnight of 24<sup>th</sup> Jan, otherwise your reservation will be cancelled. Please send the payment, by cash or cheque (payable to \"The Archimedeans\"), to Philipp Kleppmann, Corpus Christi College, or you can pass it to any of the <a href=\"http://www.archim.org.uk/committee.php\"> committee members</a> in person.</p><p> Alternatively, make an online transfer (make sure you include your name/crsID so we know who the payment is from!):</p><p> Account Name: The Archimedeans<br> Account Number: 20116386<br> Sort-Code: 40-16-08<br><br>"
+    },
+    {
+        "date": "2011-02-04",
+        "title": "The Hodge Conjecture",
+        "speaker": "Professor Richard Thomas (Imperial)",
+        "abstract": "In his popular science book about the  Millenium Prize problems, Keith Devlin admits defeat in trying to describe the Hodge conjecture, claiming that it cannot be visualised, and advising the reader to give up.  In the New York Times, May 25<sup>th</sup>, 2004, he is quoted: &quot;Mathematics has reached a stage of such abstraction that many of its frontier problems cannot be understood even by the experts&quot;.</p><p> Obviously this is nonsense, as I shall try to convince you. (But I'll assume a little knowledge of holomorphic functions, so perhaps he's right and that makes you an expert.)"
+    },
+    {
+        "date": "2011-02-18",
+        "title": "P vs NP",
+        "speaker": "Professor Anuj Dawar (Computer Lab)",
+        "abstract": "The practical implications of this problem affect all areas of modern life, from data encryption to curing cancer!"
+    },
+    {
+        "date": "2011-03-11",
+        "title": "Poincare Conjecture",
+        "speaker": "Professor Simon Donaldson (Imperial)",
+        "abstract": "The only Millenium problem to be solved to date, and who better to tell you about it then a member of the advisory boards which awarded the Millenium prize."
+    },
+    {
+        "date": "2011-03-13",
+        "title": "An Introduction to Raptor Theory: The Annual Problems Drive",
+        "abstract": "How far can you get before being chased down by a raptor?</p><p>How many raptors can you fit in a hypercage?</p><p>Can you avoid being stabbed by the Applied Mathmo?</p><p>Find out at The Archimedeans' Annual Problems Drive.</p><p>Date: Sunday 13<sup>th</sup> March<br> Time: 14:00 to 15:15<br> Location: CMS Core</p><p>Compete in pairs in this light-hearted contest in witty mathematics and mathematical wit.</p><p>There'll be various prizes for different achievements, and of course, light refreshments for all those who attend.</p><p>There is a limit on the number of pairs that can compete, so please reserve your pair's place by emailing the <a href=\"mailto:archim-events-manager@srcf.net\">Events Manager</a>."
+    },
+    {
+        "date": "2011-03-16",
+        "title": "Annual General Meeting",
+        "time": "19:30",
+        "location": "I4, New Court, Corpus Christi College",
+        "abstract": "Be at the AGM where there will be an annual review, a chance for you to raise any questions and the election of the new committee!</p><p>This is your opportunity, not only to continue the success of the Archimedeans, but to make the Society even better.  It's an experience we highly recommend: it's enjoyable, you will learn a lot during your time on the committee, develop old and new skills (teamwork, communication, etc., which is always handy on the good ol' CV) and, not to mention, meet new people!</p><p>The available roles, along with their descriptions, can be found <a href=\"http://www.archim.org.uk/getinvolved.php\">here</a>.</p><p>Please do consider joining the committee. Even if you're unsure which position to run for, we are keen to hear from anybody who is interested and will come up with a solution which works for you.</p><p> Please submit your nomination by e-mailing (with subject \"Archimedeans Nomination\") the following information to the <a href=\"mailto:archim-secretary@srcf.net\">Secretary</a>:</p><p> Name:<br> College:<br> Position:<br> Name of Proposer:<br> Name of Seconder: </p> <p> Please note that the Proposer and Seconder must also be current members of The Archimedeans."
+    }
+    ]
+}

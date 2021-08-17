@@ -1,0 +1,59 @@
+{
+    "year": "2012",
+    "term": "Lent",
+    "events": [
+    {
+        "date": "2012-01-27",
+        "title": "Spin and Division Algebras",
+        "speaker": "Dr Jonathan Evans (DAMTP)",
+        "abstract": "The concept of a division algebra generalizes the real and complex numbers by requiring a multiplication with suitable properties to be defined on a normed vector space. There are actually just two new possibilities in higher dimensions, known as the quaternions (dimension 4) and octonions (dimension 8). Spin, on the other hand, refers to a particular way of realizing rotational transformations in 3 or higher dimensions. The distinctive mathematical properties which emerge are also of great importance in physics, since the description of many elementary particles (quarks, electrons, neutrinos) relies on spin representations. There are some fascinating inter-relationships between spin and division algebras, leading ultimately to concepts such as triality, supersymmetry and exceptional Lie groups. My aim in this talk will be to give an overview of some of these ideas."
+    },
+    {
+        "date": "2012-02-04",
+        "time": "7pm",
+        "title": "Annual Dinner",
+        "speaker": "Crowne Plaza Hotel",
+        "abstract": "Dine in style with a champagne reception followed by an exquisite three course meal (wine included), in recognition of another year of The Archimedeans' success.</p><p> The dinner will be held at the Crowne Plaza Hotel on Saturday 4<sup>th</sup> February at 7pm.  Tickets sold out in a week last year, so book now to avoid disappointment - especially if you have any dietary requirements. The (heavily subsidised) prices are &pound;15 for members and &pound;20 for non-members.</p><p> Places are limited, so please email Dana (<a href=\"mailto:archim-events-manager@srcf.net\">archim-events-manager@srcf.net</a>) to reserve yours. As seating is pre-arranged, please include the names of the people with whom you would like to sit.</p><p>IMPORTANT: Please reserve your place by midday 28<sup>th</sup> January.</p><p>To confirm your reservation, please pay by 2<sup>nd</sup> February - otherwise your reservation will be cancelled. Please send the payment, by cash or cheque (payable to &quot;The Archimedeans&quot;), to Lovkush Agarwal, Corpus Christi College, or you can pass it to any of the committee members in person.</p><p>Alternatively, make an online transfer (make sure you include your name/crsID so we know who the payment is from!): Account Name: The Archimedeans Account Number: 20116386 Sort-Code: 40-16-08"
+    },
+    {
+        "date": "2012-02-10",
+        "title": "G&ouml;del's Incompleteness Theorem",
+        "speaker": "Dr Thomas Forster (DPMMS)",
+        "abstract": "Look - no hands! In this Turing Centenary year... you can now go to a logic talk that doesn't mention Turing machines!! Watch while famous logical trickster Dr Thomas Forster proves the Incompleteness Theorem before your very eyes! No but seriously. The Incompleteness theorem is surely one of the most important discoveries in mathematics since the Greeks. And - equally surely - there has been more nonsense talked about it than any other result in the whole of mathematics. Your host this evening will prove the theorem calmly and soberly and try to cut through some of the nonsense."
+    },
+    {
+        "date": "2012-02-15",
+        "time": "1pm to 2pm",
+        "location": "The Cormack Room, University Centre",
+        "title": "Inside a Quant Hedge Fund; Research at Winton",
+        "speaker": "Dr Mark Roulston",
+        "abstract": "Winton is a scientific investment management firm specialising in applying advanced statistical techniques to the analysis of financial markets. We have a large research department made up of highly creative applied scientists with strong statistical knowledge and experience analysing large real world data sets. We are particularly interested in PhD students and postdoc researchers with backgrounds in areas such as computer science, machine learning, pattern recognition, signal processing and related data analysis areas.</p>RSVP by Friday 10 Feb 2012</p><p>To reserve a place at the presentation please email <a href=\"mailto:recruitment@WintonCapital.com\">recruitment@WintonCapital.com</a><br></p><p>The talk will include a Q&amp;A session and a sandwich lunch"
+    },
+    {
+        "date": "2012-02-24",
+        "title": "Stein's Paradox",
+        "speaker": "Dr Richard Samworth (DPMMS)",
+        "abstract": "Stein's paradox is one of the most surprising results in Statistics. Suppose X<sub>1</sub>,...,X<sub>p</sub> are independent random variables, with X<sub>i</sub> ~ N(&theta;<sub>i</sub>,1). If we want to estimate &theta; = (&theta;<sub>1</sub>,...,&theta;<sub>p</sub>), the most obvious choice is to use X = (X<sub>1</sub>,...,X<sub>p</sub>). It turns out that, provided p>2, we can find a better estimator, in a very natural sense that I will make precise.  As well as giving the (fairly straightforward) proof, I will discuss geometric intuition and other explanations for this result, and discuss extensions. I will also show how the improved estimator can be used to give good predictions of baseball batting averages."
+    },
+        {
+            "date": "2012-03-02",
+            "title": "Quantum Computing",
+            "speaker": "Prof Richard Jozsa (DAMTP)",
+            "abstract": "Since the 1980s it has become evident that quantum mechanics has momentous implications for many aspects of information processing, communication and security. A new field of research - known as quantum computation and quantum information theory - has emerged, representing a remarkable synthesis of ideas from theoretical computer science (computational complexity theory), Shannon's information theory and quantum physics.  </p><p> Quantum computation (intuitively, the use of elementary quantum processes as computational steps in place of Boolean operations) is now known to be able to provide exponentially faster algorithms for some computational tasks, than any known 'conventional' (classical) algorithm. This exponentially enhanced computing power may be traced to strange non-classical properties of quantum systems, in particular the phenomenon of entanglement. Entanglement can also be exploited to provide novel possibilities for communication such as the protocol known as quantum teleportation.  </p><p> In this talk we will aim to explain the essentials of the fascinating connection between quantum mechanics and the theory of information processing, and discuss a few simple, yet strikingly surprising examples.  Prior knowledge of the elements of quantum mechanics will not be assumed, although it would probably not be a disadvantage."
+        },
+        {
+            "date": "2012-03-04",
+            "time": "1:30pm",
+            "title": "Archimedeans Problems Drive",
+            "location": "central cafeteria in the CMS",
+            "abstract": "Compete in pairs in this light-hearted contest in witty mathematics and mathematical wit. There'll be various prizes for different achievements, and of course, light refreshments for all those who attend.</p><p>There is a limit on the number of pairs that can compete, so please reserve your pair's place by emailing the Events Manager. If you don't have a partner, you can email us anyway and we'll try to find you one."
+        },
+        {
+            "date": "2012-03-12",
+            "time": "7pm",
+            "title": "Annual General Meeting",
+            "location": "I4 in Corpus Christi College",
+            "abstract": "Be at the AGM where there will be an annual review, a chance for you to raise any questions and the election of the new committee!  </p><p> This is your opportunity not only to continue the success of the Archimedeans, but to make the Society even better. It's an experience we highly recommend: it's enjoyable, you will learn a lot during your time on the committee, develop old and new skills and, not to mention, meet new people!  </p><p> An outline of the different roles in the society can be seen <a href=\"http://archim.org.uk/getinvolved.php\">here</a>.  </p><p> If you're unsure which position to run for, we are keen to hear from anybody who is interested and will come up with a solution which works for you.  </p><p> Please submit your nomination by e-mailing (with subject \"Archimedeans Nomination\") the following information to the  <a href=\"mailto:archim-president@srcf.net\">President</a>: </p><p> Name:<br> College:<br> Position:<br> Name of Proposer:<br> Name of Seconder: </p><p> Please note that the Proposer and Seconder must also be current members of The Archimedeans."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "year": "2020",
+    "term": "Easter",
+    "events":[
+    {
+        "date": "2020-04-24",
+        "speaker": "Prof. Julia Gog (DAMTP) ",
+        "title": "The Mathematics of Pandemics"
+    },
+
+    {
+        "date": "2020-05-15",
+        "speaker": "Prof. Richard Schwartz (Brown University) ",
+        "title": "The Farthest Point Map on the Regular Octahedron",
+				"link":"https://youtu.be/x8MQhozyNRU",
+        "abstract": "This talk is about the (surface of the) regular octahedron, equipped with its intrinsic metric, in which the distance between points is the length of the shortest path on the octahedron surface that joins them. I will give a complete description of the map on the octahedron which sends a point to the (typically unique) point that is farthest away. This map has a nice geometric structure and interesting dynamics. The proof will bring up some classic geometric ideas, like the developing map and the cut locus, and also some algebraic ideas like a positivity certificate for polynomials which I call the positive dominance algorithm."
+    },
+    {
+        "date": "2020-05-22",
+        "title": "Lattices and Sphere Packings",
+        "speaker": " Victor Kleptsyn (IMRAR, Rennes)",
+				"link":"https://youtu.be/_shfLDqfzKw",
+        "abstract": "My talk will be devoted to the question of sphere packings in higher dimensional spaces. The densest packing in dimension two is given by the hexagonal lattice (that anyone gets almost immediately while packing equal coins on the surface of the table). However, even in dimension 2 it is not at all trivial to prove that this packing is actually the densest one, and in the higher dimensions the question of proving that the packing is actually the densest becomes incredibly hard. Nevertheless, just a few years ago, Maryna Viazovska has proved that the famous E8 (Korkine-Zolotareff) lattice is indeed the densest packing in dimension 8, and just a few weeks later, together with H. Cohn, A. Kumar, S. Miller, D. Radchenko, that the equally famous Leech lattice is the densest packing in dimension 24. In my talk, I will explain the first steps of this path — showing, how (at least in principle!) such a result can be obtained; the key element here is an upper bound theorem obtained in early 2000s independently by H. Cohn and N. Elkies and by D. Gorbachev, with a very visual and \"geometric\" proof. "
+    }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "year": "2015",
+    "term": "Lent",
+    "events": [
+    {
+        "date": "2015-01-15",
+        "title": "Singular Eigenvalue Perturbation Theory",
+        "speaker": "Professor Barry Simon (Caltech)",
+        "abstract": "Eigenvalue Perturbation Theory is central to the theory of nonrelativistic quantum mechanics going back to Schrodinger's first papers. This lecture will review what is known about the eigenvalues in physical situations where one doesn't have simple convergence to a new isolated eigenvalue.  Included are the anharmonic oscillator and Zeeman effect (divergent series and summability), autoionizing states in atoms (complex scaling and resonances), Stark effect (exponentially small resonances) and double wells (instantons)."
+    },
+    {
+        "date": "2015-01-16",
+        "title": "Pizza and Board Games Night"
+    },
+    {
+        "date": "2015-01-23",
+        "title": "Distances, Sums and Products",
+        "speaker": "Professor B&eacute;la Bollob&aacute;s (DPMMS)",
+        "abstract": "Paul Erd&ouml;s had an amazing ability to pose problems that are easy to understand, look innocent, perhaps even trivial, and are not only hard, but eventually also open up entirely new areas of mathematics.  In this talk I shall present some of Erd&ouml;s's favourite problems, and discuss recent developments."
+    },
+    {
+        "date": "2015-01-29",
+        "title": "No-three-in-a-line problems",
+        "speaker": "Professor Ben Green (Oxford)",
+        "abstract": "Let S be a set in some vector space. What's the largest subset of S with no three collinear points?  This simple question (for various choices of S) has led to some interesting mathematics touching on a diverse range of subjects from combinatorial number theory to algebraic geometry. I will discuss some of these topics from an elementary viewpoint."
+    },
+    {
+        "date": "2015-02-05",
+        "title": "Evolution of Biological Complexity",
+        "speaker": "Professor Raymond Goldstein (DAMPT)",
+        "abstract": "It is a general rule of nature that larger organisms are more complex, as measured by the number of distinct types of cells present. Yet, increasing size has both costs and benefts, and the search for understanding the driving forces behind the evolution of multicellularity is becoming a very active area of research. In this talk, I will discuss the mathematics and physics underlying this biological problem."
+    },
+    {
+        "date": "2015-02-15",
+        "title": "Problems Drive",
+        "abstract": "Compete in pairs in this light-hearted contest in witty mathematics and mathematical wit. There will be various prizes for different achievements and light refreshments for all those who attend."
+    },
+    {
+        "date": "2015-02-26",
+        "title": "The self-avoiding walk problem",
+        "speaker": "Professor Geoffrey Grimmett (Statslab)",
+        "abstract": "How many n-step self-avoiding walks exist on a given infinite graph? This question is easy to state but notoriously hard to answer. I will describe the history of the problem, and will summarise progress and open questions, one of which may seem quite elementary."
+    },
+    {
+        "date": "2015-02-28",
+        "title": "Annual Dinner",
+        "location": "Doubletree Hilton Hotel",
+        "abstract": "The Archimedeans cordially invite you to join us for our annual dinner on Saturday 28<sup>th</sup> February. This will be a three course meal with wine included, preceded by a drinks reception.</p><p>We are delighted to announce that we will be joined this year by Professor B&eacute;la Bollob&aacute;s, who will be our guest speaker at the event.</p><p>Details</p> <ul> <li>Date: Saturday 28<sup>th</sup> February</li> <li>Timings:  7pm, Reception; 7:30pm, Dinner</li> <li>Location: Doubletree Hilton Hotel</li> <li>Map: <a href='http://tinyurl.com/btj8umc'>here</a></li> <li>Price: &pound;20 for members, &pound;25 for non-members</li> <li>Payment Deadline: Friday 13<sup>th</sup> February</li> <li>Dress Code: Black tie preferred</li> </ul><p>If you have any enquiries, please address them to the <a href='mailto:archim-secretary@srcf.net'>external secretary</a> , with 'Archimedeans Annual Dinner' in the subject line.</p>"
+    },
+    {
+        "date": "2015-03-05",
+        "title": "Eating and Racing",
+        "speaker": "Professor Imre Leader (DPMMS)",
+        "abstract": "We'll consider some interesting finite games and some interesting infinite games. "
+    } 
+    ]
+}

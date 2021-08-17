@@ -1,0 +1,24 @@
+{
+    "year": "2016",
+    "term": "Easter",
+    "events":[
+    {
+        "date": "2016-04-29",
+        "speaker": "Dr. Oscar Randall-Williams",
+        "title": "Solving equations with topology",
+        "abstract": "Topology is often useful in showing that equations have solutions without necessarily finding out what the solutions are. The first example of this is the intermediate value theorem: a continuous function <i>f</i>: <b>R</b> &#8594; <b>R</b> which takes both positive and negative values must take the value 0; the topological input is that <b>R</b> is connected. The second of these is the fundamental theorem of algebra: a polynomial function <i>p</i>: <b>C</b> &#8594; <b>C</b> of positive degree must take the value 0; the topological input is the calculation of the fundamental group of the circle.</p><p> I will explain these as well as the less-well known example of solving equations in groups: given a &quot;polynomial&quot; such as <i>w(x)=g<sub>1</sub> x<sup>2</sup> g<sub>2</sub> x<sup>-4</sup> g<sub>3</sub> x<sup>3</sup></i> with <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub></i> in a group <i>G</i> and <i>x</i> a formal symbol, is there a bigger group <i>H &geq; G</i> and a <i>h &#x03F5; H</i> such that <i>w(h)=e &#x03F5; H</i>?"
+    },
+    {
+        "date": "2016-05-01",
+        "title": "Pizza and Board Games Night",
+        "time": "6:30pm",
+        "speaker": "Pavillion D Common Room"
+    },
+    {
+        "date": "2016-05-16",
+        "speaker": "Professor Michael Atiyah",
+        "title": "Projective Planes and the Magic Square",
+        "abstract": "Few things are more important and more fun than complex numbers and their generalizations: quaternions and octonians. There is a magic about them that has fascinated mathematicians over the centuries. I will tell this story from its origins in the 18th and 19th centuries and bring it right up to to the present time, on the front line of current research."
+    }
+    ]
+}

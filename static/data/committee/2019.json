@@ -1,0 +1,76 @@
+{
+  "year": "2019",
+  "committee": [
+  {
+    "position": "President",
+    "name": "James Bolton",
+    "college": "Pembroke",
+    "email": "president"
+  },
+  {
+    "position": "Vice President",
+    "name": "Jiazheng Zhu",
+    "college": "Pembroke",
+    "email": "vice-president"
+  },
+  {
+    "position": "Treasurer",
+    "name": "Fong Tsz Lo",
+    "college": "Magdalene",
+    "email": "junior-treasurer"
+  },
+  {
+    "position": "Events Manager",
+    "name": "Beth Holmes",
+    "college": "Murray Edwards",
+    "email": "events-manager"
+  },
+  {
+    "position": "Events Manager",
+    "name": "Shavindra Jayasekera",
+    "college": "Trinity",
+    "email": "events-manager"
+  },
+  {
+    "position": "External Secretary",
+    "name": "Andy Zhao",
+    "college": "Trinity",
+    "email": "external-secretary",
+    "photo": "andy"
+  },
+  {
+    "position": "Internal Secretary",
+    "name": "Matthew Wearden",
+    "college": "St Catharine's",
+    "email": "internal-secretary"
+  },
+  {
+    "position": "Publicity Officer",
+    "name": "Parth Shimpi",
+    "college": "Gonville and Caius",
+    "email": "publicity",
+    "photo": "parth"
+  },
+  {
+    "position": "Sponsorship Officer",
+    "name": "Michael Norman",
+    "college": "Pembroke",
+    "email": "corporate-officer"
+  },
+  {
+    "position": "Webmaster",
+    "name": "Valentin Hübner",
+    "college": "Pembroke",
+    "email": "webmaster",
+    "photo": "valentin"
+  }
+  ],
+  "publications": [
+  {
+    "position": "Eureka Editor",
+    "name": "Valentin Hübner",
+    "college": "Pembroke",
+    "email": "eureka-editor"
+  }
+  ]
+}

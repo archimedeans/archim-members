@@ -1,0 +1,66 @@
+{
+    "year": "2010",
+    "term": "Michaelmas",
+    "events": [
+    {
+        "date": "2010-10-14",
+        "time": "12pm",
+        "location": "Cockcroft Lecture Theatre",
+        "title": "The Riemann Hypothesis",
+        "speaker": "Professor Ben Green (DPMMS)",
+        "abstract": "Find out about the most widely known of the Millennium Maths problems.  (Even Hollywood recognises it with the film <em>Proof</em>!)"
+    },
+    {
+        "date": "2010-10-14",
+        "location": "St. Columba's Hall, Downing Street",
+        "time": "1pm",
+        "title": "Freshers' Squash",
+        "abstract": "Meet new people, grab free pizza and of course, membership at reduced prices."
+    },
+    {
+        "date": "2010-10-21",
+        "time": "7pm",
+        "location": "Ramsden Room, St Catharine's College",
+        "title": "Deal yourself a winning hand.",
+        "abstract": "Find out about the closest thing to a sure thing in your career as an actuary.  Join our sponsor, <em>Lane, Clark and Peacock</em> for drinks. For more info visit <a href=\"http://www.lcp.uk.com\">www.lcp.uk.com</a>"
+    },
+    {
+        "date": "2010-11-05",
+        "title": "Cambridge Gems",
+        "speaker": "rofessor Bela Bollobas (DPMMS)",
+        "abstract": "A rare opportunity to hear a talk from a winner of the Senior Whitehead Prize, holder of an 'Erdos Number' of 1 and simply one of the best speakers in Mathematics.  In this talk, he will present three results by some of the most eminent Cambridge mathematicians of the last century."
+    },
+    {
+        "date": "2010-11-11",
+        "title": "Jane Street Capital Presentation",
+        "time": "18:30-21:00",
+        "location": "The Newton Room, The Pitt Buildings, Trumpington Street",
+        "abstract": "Find out about a career in one of the fastest growing quantitative proprietary trading firms."
+    },
+    {
+        "date": "2010-11-12",
+        "title": "Touring with Turing",
+        "speaker": "Professor Andrew Thomason (DPMMS)",
+        "abstract": "What is a Turing machine? And is a Turing Machine smarter than a 10 year old? There's only one way to find out, of course ... yet by thinking about it instead, Turing reckoned they were about the same. We shall try to say why, and to offer a brief panorama of the mathematics behind computers, leading on to some tantalisingly simple-sounding open questions."
+    },
+    {
+        "date": "2010-11-15",
+        "title": "Careers in Quantitative Finance ",
+        "time": "18:00",
+        "location": "The Newton Room, The Pitt Buildings, Trumpington Street",
+        "abstract": "Gloucester Research Ltd invites Part III Maths and PhD students in Maths, Physics, Engineering, Statistics, Computer Science and Computational Biology to join them for an informal evening with drinks and canapes. Find more info <a href=\"http://www.archim.org.uk/gr_invitation.pdf\"> here</a>.  15<sup>th</sup> Nov, 18:00, The Newton Room, Pitt Building, Trumpington Street"
+    },
+    {
+        "date": "2010-11-19",
+        "title": "Yang-Mills Theory (YMT) ",
+        "speaker": "Professor David Tong (DAMTP) Trumpington Street",
+        "abstract": "The Yang-Mills equations govern the strong nuclear force which binds quarks inside the proton and neutron. They are a generalization of Maxwell's equations, though unlike Maxwell's equations, they are non-linear and correspondingly much harder to solve. This talk will describe the equations and explain some expected properties of the solutions, including the meaning of the famous &quot;mass gap&quot;."
+    },
+    {
+        "date": "2010-11-26",
+        "title": "Fundamental Theorem of Comedy",
+        "time": "19:30pm",
+        "abstract": "Will it be a continuous night of laughter? Will the humour have no upper bound?  Will there be any maths references at all?  Only ICE has the answer!"
+    }
+    ]
+}

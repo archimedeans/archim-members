@@ -1,0 +1,52 @@
+{
+    "year": "2016",
+    "term": "Lent",
+    "events":[
+    {
+        "date": "2016-01-29", 
+        "title": "Bayesian inference and the Bernstein-von Mises theorem", 
+        "speaker": "Dr Richard Nickl (Statslab)",
+        "abstract": "Many statisticians believe there is a fundamental division between two 'religious' paradigms, known in scientific folklore as the 'Bayesians' and the 'frequentists'. The former have some 'subjective beliefs' modelled through a prior distribution that then is 'updated' given new observations (via a triviality known as 'Bayes' theorem'). In contrast the frequentists let their inferences be dictated by the empirical evidence of the data alone, and accuse the Bayesian approach of lack of scientific rigour. In this talk I will discuss the history of a beautiful theorem from mathematical statistics that reconciles these two paradigms from a frequentist point of view: The Bernstein-von Mises phenomenon, which was first discovered by Laplace in a simple case and worked out as a general theorem by mathematicians in the 20th century, states that Bayesian inference based on the posterior distribution is actually 'in most cases frequentist optimal', in a sense I will explain. If time permits I will also touch on some recently discovered mathematical surprises in 'high-dimensional' versions of the Bernstein von Mises theorem, as is relevant in statistical methodology used in the recent 'data science hype' involving buzzwords such as 'big data', 'machine learning' and 'Bayesian nonparametrics'."
+    },
+    {
+        "date": "2016-02-05", 
+        "time": "7:30pm", 
+        "title": "An Old Problem",
+        "speaker": "Professor B&eacute;la Bollob&aacute;s (DPMMS)",
+        "abstract": "Most mathematical problems are solved a few years after they are posed, but some (not only Fermat's Last Theorem) take over a century to solve. In this talk I shall present a simple solution of a problem posed over a century ago."
+    },
+    {
+        "date": "2016-02-12", 
+        "title": "Universality in probability theory", 
+        "speaker": "Professor Martin Hairer (Warwick)",
+        "abstract": "Some objects in probability theory are &quot;universal&quot;, i.e. they arise naturally in many different, only loosely related, contexts. We will discuss some of these objects and try to give a glimpse of some of the progress made over the past years towards their understanding."
+    },
+    {
+        "date": "2016-02-19", 
+        "title": "Galois and his groups", 
+        "speaker": "Peter Neumann (Oxford)",
+        "abstract": "When Galois invented groups they were very different from the structures taught and learned and loved in undergraduate courses at Cambridge and other modern universities. My purpose in this lecture will be to explain the differences and calibrate the similarities. As a by-product I hope to show that topics in the History of Mathematics can be just as exciting, subtle and difficult as mathematics itself."
+    },
+    {
+        "date": "2016-02-20",
+        "time": "7:00pm",
+        "title": "Archimedeans Annual Dinner",
+        "speaker": "Doubletree by Hilton Hotel"
+    },
+    {
+        "date": "2016-02-25", 
+        "title": "Molecular Dynamics", 
+        "speaker": "Random Walks and PDEs, Radek Erban (Oxford)",
+        "abstract": "I will introduce several deterministic and stochastic dynamical systems which have been used for mathematical modelling in biology, describing processes at different spatial and temporal scales. Using simple illustrative examples, I will discuss connections between (detailed) molecular dynamics simulations, (less detailed) Brownian dynamics approaches and (even coarser) models written as partial differential equations. I will use this discussion to highlight some open mathematical problems in the field of mathematical biology."
+    },
+    {
+        "date": "2016-03-11", 
+        "title": "Combinatorics and the Fourier Transform", 
+        "speaker": "Tom Sanders (Oxford)"
+    }
+    ]
+}
+
+
+
+

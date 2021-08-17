@@ -1,0 +1,78 @@
+1936 ?, Miss, N
+1937 Higginbotham, M., Miss, G
+1938 Rosenbaum, S., T
+1939 Scorer, R.S., CC
+ 
+1951 Schofield, P., EM
+1952 Smith, I.J., SID
+1953 Darie, J.A.W., JN
+1954 Welchman, R.T., K
+1955 Quilley, D., CHR
+1956 Rhodes, M., G
+1957 Hearnshaw, S., N
+1958 ?
+1959 Jayson, R.V., JN
+1960 Prince, J.W., M
+1961 Stephenson, W., CAI
+1962 Harris, L.S., CAI
+1963 Northover, J.M., Miss, N
+1964 Hearnshaw, J.H., Miss, N
+1965 Barnshaw, A.E., Miss, N
+1966 Hobson, J., K
+1967 Manning, A.K., EM
+1968 Aslet, G.K., PEM
+1969 Meekings, H.C.M., JE
+1970 Rankin, F.K.C., Miss, G
+1971 Toop, N., CL
+1972 Haig, J.M., Miss, G
+1973 Thorpe, G., T
+1974 Thorpe, G., T
+1975 Dix, R.C., JN
+1976 Arter, W., T
+1977 Trotman, D., Miss, N
+1978 Burns, R.J., CC
+1979 Mane, S.R., T
+1980 Tompkins, P.D.G., T
+1981 Tompkins, P.D.G., T
+1981 Kelly, A.J., Q
+1982 McInnes, F., PEM
+1983 Agboola, A., PET
+1984 Hall, I.D., JN
+1985 Hunt, R.E., T
+1986 Hunt, R.E., T
+1987 Glover, P.A.D., CHU
+1988 Burn, D.J.L., T
+1989 Nelson, G.A., SE
+1989 Matthews, G.R., T
+1990 Matthews, G.R., T
+1991 Golub, A.J., T
+1992 Mokady, A.J., T
+1993 Cox, A.G., CL
+1994 Thuraisingham, P.S., T
+1995 Ashbourne, J.M.A.
+1996 Ashbourne, J.M.A.
+1997 Ashbourne, J.M.A.
+1998 Cohen, B.J., T
+1999 Russell, P.A., PET
+2000 Mundinger, J., CAI
+2001 Colwell, L.J., T
+2002 Colwell, L.J., T
+2003 Colwell, L.J., T
+2004 Shepherd, J.R.T., T
+2005 Battaglia, T.A., CAI
+2006 Jones, E.M., PEM
+2007 Banwait, B.S., CHR
+2008 Jiang, L., F
+2009 Dietert, H.G.W., Q
+2010 Kleppmann, P., CC
+2011 Agarwal, L., CC
+2012 Egan, C., CAI
+2013 Purvis, R.J., JE
+2014 Saha, S., MUR
+2015 Saha, S., MUR
+2016 Woo, T.Y.I., MUR
+2017 Needham, J.J.P., PEM
+2018 Choi E.J., PEM
+2019 Fong T.L., M
+2020 Fong T.L., M
+2021 Fong T.L., M

@@ -1,0 +1,75 @@
+{
+  "year": "2020",
+  "committee": [
+  {
+    "position": "President",
+    "name": "Parth Shimpi",
+    "college": "Gonville and Caius",
+    "email": "president",
+    "photo": "parth"
+  },
+  {
+    "position": "Vice President",
+    "name": "Matthew Holland",
+    "college": "Magdalene",
+    "email": "vice-president"
+  },
+  {
+    "position": "Treasurer",
+    "name": "Fong Tsz Lo",
+    "college": "Magdalene",
+    "email": "junior-treasurer"
+  },
+  {
+    "position": "Events Manager",
+    "name": "Gar Jun Chim",
+    "college": "Selwyn",
+    "email": "events-manager"
+  },
+  {
+    "position": "Events Manager",
+    "name": "Vedanshu Mahajan",
+    "college": "Selwyn",
+    "email": "events-manager"
+  },
+  {
+    "position": "External Secretary",
+    "name": "Yuriy Tumarkin",
+    "college": "Trinity",
+    "email": "external-secretary"
+  },
+  {
+    "position": "Internal Secretary",
+    "name": "Gesa Dünnweber",
+    "college": "Gonville and Caius",
+    "email": "internal-secretary"
+  },
+  {
+    "position": "Publicity Officer",
+    "name": "Julius Villar",
+    "college": "Trinity Hall",
+    "email": "publicity"
+  },
+  {
+    "position": "Sponsorship Officer",
+    "name": "Etaash Katiyar",
+    "college":"Corpus Christi",
+    "email":"corporate-officer"
+  },
+  {
+    "position": "Webmaster",
+    "name": "Vincent Tse",
+    "college": "Homerton",
+    "email": "webmaster",
+    "photo":"vincent"
+  }
+  ],
+  "publications": [
+  {
+    "position": "Eureka Editor",
+    "name": "Valentin Hübner",
+    "college": "Pembroke",
+    "email": "eureka-editor"
+  }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "year": "2018",
+  "committee": [
+  {
+    "position": "President",
+    "name": "Yash Patel",
+    "college": "Pembroke",
+    "email": "president",
+    "photo": "yash",
+    "description": "Still too cool"
+  },
+  {
+    "position": "Vice President",
+    "name": "Diogo Fonseca",
+    "college": "Pembroke",
+    "email": "vice-president",
+    "photo": "diogo",
+    "description": "easily triggered by differing opinions on memes or music"
+  },
+  {
+    "position": "External Secretary",
+    "name": "Lulu Beatson",
+    "college": "Murray Edwards",
+    "photo": "lulu",
+    "email": "secretary"
+  },
+  {
+    "position": "Internal Secretary",
+    "name": "Patrick Kennedy-Hunt",
+    "college": "St John's",
+    "email": "secretary",
+    "photo": "patrick",
+    "description": ""
+  },
+  {
+    "position": "Treasurer",
+    "name": "Jin Choi",
+    "college": "Pembroke",
+    "email": "junior-treasurer",
+    "photo": "jin",
+    "description": "naively pretentious"
+  },
+  {
+    "position": "Publicity Officer",
+    "name": "James Bolton",
+    "college": "Pembroke",
+    "email": "publicity",
+    "description": ""
+  },
+  {
+    "position": "Events Manager",
+    "name": "Wendi Fan",
+    "college": "Magdalene",
+    "email": "events-manager",
+    "description": ""
+  },
+  {
+    "position": "Events Manager",
+    "name": "Matthew Wearden",
+    "college": "St Catharine's",
+    "email": "events-manager",
+    "description": ""
+  },
+  {
+    "position": "Corporate Sponsorship Officer",
+    "name": "Anthony Kattuman",
+    "college": "St John's",
+    "email": "corporate-officer"
+  },
+  {
+    "position": "Webmaster",
+    "name": "Valentin Hübner",
+    "college": "Pembroke",
+    "email": "webmaster",
+    "photo": "valentin",
+    "description": "impulsive"
+  },
+  {
+    "position": "General Member",
+    "name": "Dean Zhu",
+    "college": "Pembroke"
+  },
+  {
+    "position": "General Member",
+    "name": "Dexter Chua",
+    "college": "Robinson",
+    "photo": "dexter.png",
+    "description": "I'm a fourth year mathematician, mostly interested in category theory, geometry and type theory. I also have some side interests in physics and programming. I also enjoy hiking during my free time, but unfortunately Cambridge is too flat for that."
+  },
+  {
+    "position": "General Member",
+    "name": "Eve Pound",
+    "college": "Murray Edwards"
+  },
+  {
+    "position": "General Member",
+    "name": "Jeremy Taylor",
+    "college": "Pembroke",
+    "description": "things go over his head"
+  },
+  {
+    "position": "General Member",
+    "name": "Joe Needham",
+    "college": "Pembroke",
+    "photo": "joe.jpg",
+    "description": "I'm Joe, a third year mathmo at Pembroke. Whem I'm not failing to complete an example sheet, I enjoy playing football, running, and looking at pictures of my dogs."
+  },
+  {
+    "position": "General Member",
+    "name": "Josh Osborne",
+    "college": "Pembroke",
+    "description": "intimidating"
+  },
+  {
+    "position": "General Member",
+    "name": "Tim Colpus",
+    "college": "Pembroke"
+  },
+  {
+  "position": "General Member",
+  "name": "Zheneng Xie",
+  "college": "Magdalene",
+  "description": "Hi! I'm Zheneng, a third year mathmo with an interest in Analysis and Statistics. When not studying I enjoy mystery novels and jogging. I'll hopefully see you at one of our events!"
+  }
+  ],
+  "publications": [
+  {
+    "position": "Eureka Editor",
+    "name": "Michael Grayling",
+    "college": "Sidney Sussex",
+    "email": "eureka-editor"
+  },
+  {
+    "position": "Eureka Assistant Editor",
+    "name": "Oliver Feng",
+    "college": "Trinity",
+    "email": "eureka-asst-editor"
+  },
+  {
+    "position": "Eureka Assistant Editor",
+    "name": "Robert Allen",
+    "college": "Homerton",
+    "email": "eureka-asst-editor"
+  },
+  {
+    "position": "Eureka Assistant Editor",
+    "name": "James Hodge",
+    "college": "Kings",
+    "email": "eureka-asst-editor"
+  }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+    "year": "2013",
+    "term": "Lent",
+    "events": [
+    {
+        "date": "2013-01-27",
+        "title": "Undergraduate Symposium",
+        "time": "10am - 6pm",
+        "location": "MR2",
+        "abstract": "The first ever undergraduate symposium of the Archimedeans will give students the chance to give talks to the society on their mathematical interests."
+    },
+    {
+        "date": "2013-02-01",
+        "title": "The Theorem of Archimedes",
+        "speaker": "Prof. Sir Michael Atiyah (Edinburgh)",
+        "abstract": "Archimedes was very proud of his Theorem relating the surface area of a sphere to the area of a cylinder. He asked for this to be inscribed on his tombstone. Prof. Atiyah will show that his pride was justified and that his theorem has had a major impact on the mathematics of recent times, with surprising connections to such things as the isoperimetric inequality and the Hodge signature theorem."
+    },
+    {
+        "date": "2013-02-09",
+        "title": "Annual Dinner",
+        "time": "6.30pm",
+        "location": "Doubletree by Hilton",
+        "abstract": "Please join us for our annual celebration of Mathematics at Cambridge.  As usual, a reception and 3-course meal in sumptuous surroundings will be the backdrop for our social event of the year. We are lucky to be joined at the dinner by Prof. Imre Leader, who is the Senior Treasurer of the Archimedeans and will be our Guest Speaker for the night. In addition, this year we are giving you to opportunity to invite your favourite lecturers and supervisors to join us at the dinner. Book now before places run out!</p><ul> <li><em>Map:</em> <a href=\"http://tinyurl.com/btj8umc\">http://tinyurl.com/btj8umc</a><br></li> <li><em>Price:</em> &pound;15 for members, &pound;20 for non-members<br></li> <li><em>Booking link:</em> <em>link removed</em><br></li> <li><em>Booking and payment deadline:</em> Thursday 24<sup>th</sup> January<br></li> <li><em>Dress Code:</em> Black tie preferred</li></ul>"
+    },
+    {
+        "date": "2013-02-15",
+        "title": "Conformal Geometry, its Beauty and Power in Physics and Cosmology",
+        "speaker": "Prof. Sir Roger Penrose (Oxford)",
+        "abstract": "The ancient geometry of Euclid and its curved-space generalizations due to Gauss and Riemann are built upon a notion of (infinitesimal) distance. Somewhat less attention has been paid to the slightly more general geometry based simply upon the local notion of angle, referred to as conformal geometry. It involves many elegant theorems, and has direct applications to Einstein's special relativity and to Maxwell's electromagnetic theory. It is also central to a new view of the cosmological universe."
+    },
+    {
+        "date": "2013-02-22",
+        "title": "Elliptic Curves",
+        "speaker": "Prof. Kevin Buzzard (Imperial)",
+        "abstract": "Elliptic Curves can be thought of topologically as a torus, or algebraically as the solutions to a cubic equation in two variables.  They have applications across mathematics, but as a number theorist Prof. Buzzard will stress the more arithmetic applications they've had in recent times, for example to the congruent number problem and Fermat's Last Theorem. He will also say something about the Birch-Swinnerton-Dyer conjecture, one of the most important unsolved problems in number theory."
+    },
+    {
+        "date": "2013-03-01",
+        "title": "How to solve a linear equation?",
+        "speaker": "Prof. Arieh Iserles (DAMTP)",
+        "abstract": "Our starting point is the familiar linear ODE system y' = A(t) y. How to expand the solution in a clever way? This innocent question will take us on a romp through graph theory, Lie algebras, group theory, numerical analysis and differential geometry."
+    },
+    {
+        "date": "2013-03-03",
+        "title": "Problems Drive",
+        "location": "CMS Core",
+        "time": "4pm-6pm",
+        "abstract": "Compete in pairs in this light-hearted contest in witty mathematics and mathematical wit. There will be various prizes for different achievements and light refreshments for all those who attend."
+    },
+    {
+        "date": "2013-03-08",
+        "title": "Secrets of Mental Maths",
+        "speaker": "Dr. Arthur Benjamin (Harvey Mudd College)",
+        "abstract": "Dr. Benjamin is a mathematician and a magician. In his entertaining and fast-paced performance, he will demonstrate and explain how to mentally multiply numbers faster than a calculator, how to figure out the day of the week of any date in history, and other amazing feats of mind. He has presented his mixture of maths and magic to audiences all over the world. Arthur Benjamin is a professor of mathematics at Harvey Mudd College in Claremont, California. His TED talk as a mathemagician has been viewed over 5 million times. Reader's Digest calls him America's Best Math Whiz."
+    },
+    {
+        "date": "2013-03-13",
+        "title": "Annual General Meeting",
+        "time": "7pm",
+        "location": "Winstanley Lecture Theatre, Trinity College",
+        "abstract": "Join us for a review of the past year, and to elect a new committee for the forthcoming year."
+    }
+    ]
+}
+

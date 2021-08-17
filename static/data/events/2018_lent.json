@@ -1,0 +1,56 @@
+{
+    "year": "2018",
+    "term": "Lent",
+    "events":[
+    {
+        "date": "2018-01-23",
+        "title": "Pizza and Board Games Night",
+        "time": "6:30pm",
+        "location": "Pavilion D, CMS"
+    },
+    {
+        "date": "2018-01-26", 
+        "speaker": "Prof. Sarah Whitehouse (Sheffield)",
+        "title": "Associativity in topology",
+        "abstract": "Familiar operations in arithmetic, such as addition and multiplication of numbers, are associative. This means that the answers we obtain don't depend on the order in which we carry out the operations.  For example, (2+3)+4 = 2+(3+4), and so we do not normally bother writing the brackets.</p><p>My work involves the interaction of algebraic conditions like associativity with topology, the study of shapes up to continuous deformations. In topological settings, it turns out that a weaker version of associativity is more natural. This leads to very rich and interesting structures which have become important in many different areas of mathematics, including algebra, geometry and mathematical physics. Similar topological games can be played with other familiar algebraic conditions.</p><p> Along the way, I'll talk about a famous sequence of numbers known as the Catalan numbers. They play a key role, because the Catalan numbers count how many different bracketings there are."
+    },
+    {
+        "date": "2018-02-02",
+        "speaker": "Paul Cook",
+        "title": "The Mathematics of Juggling"
+    },
+    {
+        "date": "2018-02-09",
+        "speaker": "Beth Romano (DPMMS)",
+        "title": "Exceptional Symmetries",
+        "abstract": "Lie groups lie at the intersection of geometry and algebra, making them useful for many diverse areas of mathematics. As a representation theorist, I understand Lie groups by realizing them as symmetries of vector spaces&ndash;as automorphisms that respect some additional structure. In this talk I'll discuss the construction and symmetries of two non-commutative algebras&ndash;the quaternions and the octonions. The quaternions naturally give insights into three- and four-dimensional geometry. The octonions are less easy to work with&ndash;they are not even associative. But we'll see that they are the key to understanding the &quot;exceptional&quot; Lie groups, which don't fall into any classical family."
+    },
+    {
+        "date": "2018-02-16",
+        "speaker": "Dr Kasia Rejzner (York)",
+        "time": "8pm",
+        "title": "Mathematics at the intersection of quantum and gravity",
+        "abstract": "In modern mathematical physics some of the most challenging problems concern quantum theory of fields and Einsteinian gravity. My research focuses on situations, where these two meet; examples include Black Holes and the early Universe. There are plenty of exciting physical problems in this area of research, but there is also some very interesting mathematics. In this talk, I will give a pedagogical overview of the topics I'm working on and present some of the mathematics involved in my research.</p><p> There will be wine and some nibbles beforehand from 7:30."
+    },
+    {
+        "date": "2018-03-01",
+        "time": "7pm",
+        "location": "Pembroke NCR",
+        "title": "Film Night",
+        "abstract": "We will be showing &quot;Good Will Hunting&quot;."
+    },
+    {
+        "date": "2018-03-09",
+        "speaker": "Gabriel Paternain (DPMMS)",
+        "title": "Cloaking: A Geometer's Perspective",
+        "abstract": "I will describe some recent theoretical developments concerning invisibility and cloaking. The focus will be on geometric ideas that allow for cloaking to occur. Familiarity with ideas from IB Geometry and Electromagnetism will be helpful."
+    },
+    {
+        "date": "2018-03-10",
+        "title": "Archimedeans Annual Dinner",
+        "time": "7pm",
+        "location": "DoubleTree by Hilton Hotel",
+        "abstract": "See <a href='http://dinner.archim.org.uk/'>here</a> for more details."
+    }
+    ]
+}

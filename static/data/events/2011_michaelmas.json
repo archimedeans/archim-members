@@ -1,0 +1,76 @@
+{
+    "year": "2011",
+    "term": "Michaelmas",
+    "events": [
+    {
+        "date": "2011-10-04",
+        "time": "10am to 6:30pm",
+        "location": "Stall G1, Main Hall, Kelsey Kerridge Sports Hall, Queen Anne Terrace, Cambridge CB1 1NA"
+    },
+    {
+        "date": "2011-10-12",
+        "time": "12am",
+        "title": "Freshers' Squash",
+        "location": "St. Columba's Hall, DOwning Place",
+        "abstract": "Meet new people, grab a free lunch, and of course, membership at reduced prices."
+    },
+    {
+        "date": "2011-10-14",
+        "title": "The National Curriculum Wars",
+        "speaker": "Professor Martin Hyland (DPMMS)",
+        "abstract": "The UK is in the midst of a reform of the National Curriculum. Creating a Curriculum is hard work and the process creates high emotion: anxiety, anger and righteous indignation. I shall say a very little about that and shall use it as a starting point for the question what every mathematician coming to Cambridge ought to know. I shall propose a way to think about that in terms of what I regard as a special category of emblematic problems. I shall give examples from my own experience and reading but the main aim of the talk is to solicit further examples from the Cambridge mathematics community."
+    },
+    {
+        "date": "2011-10-21",
+        "title": "ICE",
+        "speaker": "Professor M. Grae Worster (DAMTP)",
+        "abstract": "Ice is one of the most powerful agents for environmental change on Earth.  We are most aware of that in this country when we drive over potholes after a harsh winter.  The same forces weather rocks, bring stones to the surface of fields and create landforms, particularly in regions of permafrost.  The ice in arctic regions keeps our planet temperate both by storing heat between seasons and by reflecting sunlight.  As the oceans freeze, dense brine is generated that drives large-scale circulations, of which the Gulf Stream forms a part.  My talk will range over these phenomena, illustrating several of them with experiments, and introduce the ways in which mathematics can be used to make predictions."
+    },
+    {
+        "date": "2011-10-22", 
+        "time": "7pm",
+        "title": "LCP informal employer presentation evening",
+        "location": "Ramsden Room, St Catherine's College",
+        "abstract": "LCP is one of the UK's leading actuarial partnerships. We are looking to recruit up to 18 highly numerate individuals to train as actuarial consultants within our pensions, general insurance, investment and business analytics consultancies.</p><p> Come and meet us for drinks and you will be able to experience why we have a reputation of being an exceptionally friendly and professional firm. You will also learn about work, the extensive training programme and what is it like to study for actuarial exams</p><p>We will also be attending the Cambridge Careers for Mathematicians Event on 2<sup>nd</sup> November."
+    },
+    {
+        "date": "2011-10-29",
+        "title": "Board games evening!",
+        "location": "CMS Central Core",
+        "time": "7pm - 9pm",
+        "abstract": "Interested in a night of fun, food, and an opportunity to meet other mathmos? Come along to our games evening!  Board and card games (including but not limited to: Set, Cluedo, Blokus and Balderdash) will be provided, but please do bring along your personal favourites. Snacks and drinks will also be supplied. Feel free to drop in for just a game or two, or better yet, come for the entire two hours!</p><p>Free for members, &pound;2 entry for non-members."
+    },
+    {
+        "date": "2010-11-07",
+        "time": "6pm - 9:30pm",
+        "title": "Jane Street Career Presentation Evening",
+        "abstract": "Our staff will be on hand to speak to students and answer and questions they may have."
+    },
+    {
+        "date": "2010-11-11",
+        "time": "7pm",
+        "title": "The Fundamental Theorem of Comedy",
+        "speaker": "ICE - Improvised Comedy Ents",
+        "abstract": "Will it be a continuous night of laughter? Will the humour have no upper bound? Will there be any maths references at all? Only ICE has the answer!"
+    },
+    {
+        "date": "2011-11-15",
+        "title": "Gloucester Research",
+        "location": "Cormack Room, University Centre",
+        "abstract": "We are holding an evening presentation for Mathematics students in Cormack Room, University Centre, time TBA."
+    },
+    {
+        "date": "2011-11-18",
+        "title": "Addictive Number Theory",
+        "speaker": "Dr Vicky Neale (DPMMS)",
+        "abstract": "Apparently simple questions about adding whole numbers have led to some beautiful mathematics, involving ideas that at first sight seem to have nothing to do with the integers. In this talk, we'll get a flavour of this area, and we'll see how two great Cambridge mathematicians from the last century played a key role.  We'll also see an application of the important fact that 1 is the smallest positive integer."
+    },
+    {
+        "date": "2011-11-25",
+        "title": "Games of Pursuit and Evasion",
+        "speaker": "Professor Imre Leader (DPMMS)",
+        "abstract": "A scorpion wants to catch a beetle, a porter wants to catch a student, and a lion wants to catch a man.  The beetle, student and man do not want to be caught. What tactics should they adopt?"
+    }
+    ]
+}
+

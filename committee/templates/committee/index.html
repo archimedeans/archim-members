@@ -1,0 +1,76 @@
+{% extends "core/layout.html" %}
+{% load static %}
+
+{% block title %}Committee{% endblock %}
+
+{% block content %}
+
+<h1>Current committee ({{ year }} - {{ year | add:1 }})</h1>
+
+{% if committee %}
+    {% for member in committee %}
+        <section class='committee-entry'>
+            {% if member.photo %}
+                <img class="committee-photo" src="/images/committee/{{ member.photo }}.jpg" />
+            {% endif %}
+            <h3 class="committee-header">
+                {{ member.position }}: {{ member.name }}
+                <br>
+                <span class="committee-college">{{ member.college }}</span>
+            </h3>
+            {% if member.email %}
+                <p class="committee-email">
+                    <a href="mailto:archim-{{ member.email }}@srcf.net">archim-{{ member.email }}@srcf.net</a>
+                </p>
+            {% endif %}
+        </section>
+    {% endfor %}
+{% else %}
+    <p>Check back later!</p>
+{% endif %}
+
+<h2>Publications Subcommittee</h2>
+
+{% if committee %}
+    {% for member in publications %}
+        <section class='committee-entry'>
+            {% if member.photo %}
+                <img class="committee-photo" src="/images/committee/{{ member.photo }}.jpg" />
+            {% endif %}
+            <h3 class="committee-header">
+                {{ member.position }}: {{ member.name }}
+                <br>
+                <span class="committee-college">{{ member.college }}</span>
+            </h3>
+            {% if member.email %}
+                <p class="committee-email">
+                    <a href="mailto:archim-{{ member.email }}@srcf.net">archim-{{ member.email }}@srcf.net</a>
+                </p>
+            {% endif %}
+        </section>
+    {% endfor %}
+{% else %}
+    <p>Check back later!</p>
+{% endif %}
+
+<h2>Role descriptions</h2>
+<ul>
+    <li><b>President:</b> Makes sure everyone knows what needs to be done, arranges committee meetings, introduces
+        speakers</li>
+    <li><b>Vice-president:</b> Fills in when the president is unavailable, in general helping other committee members.
+    </li>
+    <li><b>External Secretary:</b> Invites and coordinates with speakers, arranges speaking events</li>
+    <li><b>Internal Secretary:</b> Manages internal society affairs, e.g. managing the membership lists</li>
+    <li><b>Treasurer:</b> Manages the society bank account, manages reimbursements</li>
+    <li><b>Publicity Officer:</b> Sends emails, puts up posters, manages the Facebook Page</li>
+    <li><b>Events Managers:</b> Organises all social events, usually 2 people are in this role so they can share the
+        workload</li>
+    <li><b>Corporate Officer:</b> Manages relationships with corporate sponsors and sponsor events.</li>
+    <li><b>Webmaster:</b> Keeps the website updated and maintained</li>
+    <li><b>General members:</b> Helps out with events</li>
+</ul>
+<h2>Past committees</h2>
+<p>We maintain an archive of past committees of the Archimedeans plus some other societies on a <a
+        href="/past-committee">separate page</a>.</p>
+
+{% endblock %}

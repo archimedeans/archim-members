@@ -2,6 +2,8 @@ from django.shortcuts import render
 from django.http import HttpResponse
 from django.template import loader
 
+# TODO: Make a committee model
+
 committee = {
   "year": "2021",
   "committee": [

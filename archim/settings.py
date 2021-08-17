@@ -18,6 +18,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'members.apps.MembersConfig',
     'committee.apps.CommitteeConfig',
+    'resources.apps.ResourcesConfig',
+    'events.apps.EventsConfig',
     'core.apps.CoreConfig',
     
     'django.contrib.admin',

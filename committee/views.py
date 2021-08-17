@@ -84,6 +84,7 @@ committee = {
 
 
 def index(request):
-    template = loader.get_template('committee/index.html')
-
     return render(request, 'committee/index.html', committee)
+  
+def past(request):
+    return render(request, 'committee/past.html')

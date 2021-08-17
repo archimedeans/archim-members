@@ -16,3 +16,8 @@ def publications(request):
     template = loader.get_template('core/publications.html')
     
     return HttpResponse(template.render({}, request))
+
+def documents(request):
+    template = loader.get_template('core/documents.html')
+    
+    return HttpResponse(template.render({}, request))

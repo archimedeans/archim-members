@@ -16,6 +16,4 @@ $ python manage.py runserver
 
 You will also need to put the files in `static` at the root of the web server, so that they are not handled by Django
 
-## Notes
-
-Currently the rest of the website is not implemented, just the member management system (and only from the Django admin panel, at the moment).
+There is also a `seed.py` file which can be used to initialize the members, events and committee databases (though eventually we will migrate to doing proper backups).

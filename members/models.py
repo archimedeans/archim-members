@@ -4,7 +4,7 @@ from django.db import models
 # see https://www.admin.cam.ac.uk/reporter/2016-17/special/04/section1.shtml
 COLLEGES = (
     ("CAI",  "Gonville & Caius"),
-    ("CTH",  "St Catherine's"),
+    ("CTH",  "St Catharine's"),
     ("CHR",  "Christ's"),
     ("CHU",  "Churchill"),
     ("CL",  "Clare"),
@@ -38,6 +38,7 @@ COLLEGES = (
 )
 
 class Member(models.Model):
+    """Represents a member of the archimedeans."""
     firstname = models.CharField(max_length=25)
     lastname = models.CharField(max_length=25)
     crsid = models.CharField(max_length=8)

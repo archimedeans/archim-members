@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Committee, CommitteeMember
+
+admin.site.register(Committee)
+admin.site.register(CommitteeMember)

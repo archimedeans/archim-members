@@ -16,7 +16,7 @@
             <h3 class="committee-header">
                 {{ member.position }}: {{ member.name }}
                 <br>
-                <span class="committee-college">{{ member.college }}</span>
+                <span class="committee-college">{{ member.get_college_display }}</span>
             </h3>
             {% if member.email %}
                 <p class="committee-email">
@@ -40,7 +40,7 @@
             <h3 class="committee-header">
                 {{ member.position }}: {{ member.name }}
                 <br>
-                <span class="committee-college">{{ member.college }}</span>
+                <span class="committee-college">{{ member.get_college_display }}</span>
             </h3>
             {% if member.email %}
                 <p class="committee-email">

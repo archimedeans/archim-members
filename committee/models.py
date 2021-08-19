@@ -17,7 +17,7 @@ class CommitteeMember(models.Model):
     college = models.CharField(max_length=6, choices=COLLEGES, blank=True)
     email = models.CharField(max_length=100, null=True)
     is_publications = models.BooleanField(default=False)
-    photo = models.CharField(max_length=100, null=True)
+    photo = models.CharField(max_length=100, null=True, blank=True)
     committee = models.ForeignKey(Committee, on_delete=models.CASCADE)
 
     class Meta:

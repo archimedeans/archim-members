@@ -20,5 +20,5 @@ jobs:
           FTP_PASSWORD: ${{ secrets.PASSWORD }}
           METHOD: sftp
           PORT: 22
-          REMOTE_DIR: /home/societies/archim/webserver
+          REMOTE_DIR: /societies/archim/webserver
           ARGS: --exclude=.gitignore --exclude=README.md --exclude=.github

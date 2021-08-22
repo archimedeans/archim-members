@@ -2,5 +2,4 @@
 
 . ./venv/bin/activate
 
-exec gunicorn /societies/archim/webserver/archim/wgsi.py --bind unix:/societies/archim/sockets/django.sock
-
+exec gunicorn archim.wsgi --bind unix:/societies/archim/sockets/django.sock

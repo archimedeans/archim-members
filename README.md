@@ -6,7 +6,14 @@
 
 ## Usage
 
-Make sure you have Python and Django installed, then you can run
+First setup `venv`. You can do this with
+
+```shell
+$ python3 -m venv venv
+$ . venv/bin/activate
+```
+
+Then make sure you have Python and Django installed, then you can run
 
 ```shell
 $ python manage.py migrate

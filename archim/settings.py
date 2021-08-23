@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-ix&i0xsbjrdmt2vot#y7qasisa4izk=$z$bz-ss!7gwk04hbku
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['archim.soc.srcf.net', 'archim.org.uk', 'the-archimedeans.org.uk']
+ALLOWED_HOSTS = ['archim.soc.srcf.net', 'archim.org.uk', 'the-archimedeans.org.uk', 'www.archim.org.uk', 'www.the-archimedeans.org.uk', '127.0.0.1']
 
 INSTALLED_APPS = [
     'members.apps.MembersConfig',

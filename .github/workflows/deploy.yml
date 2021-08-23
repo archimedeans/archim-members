@@ -21,4 +21,3 @@ jobs:
           METHOD: sftp
           PORT: 22
           REMOTE_DIR: /societies/archim/webserver
-          ARGS: --exclude=.gitignore --exclude=README.md --exclude=.github

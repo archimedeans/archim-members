@@ -180,3 +180,5 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/python,django,macos
 
 seed_members.py
+
+SECRET_KEY.txt

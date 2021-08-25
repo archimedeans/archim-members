@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -8,10 +9,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ix&i0xsbjrdmt2vot#y7qasisa4izk=$z$bz-ss!7gwk04hbku'
+with open(BASE_DIR / 'SECRET_KEY.txt') as f:
+    SECRET_KEY = f.read().strip()
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['archim.soc.srcf.net', 'archim.org.uk', 'the-archimedeans.org.uk', 'www.archim.org.uk', 'www.the-archimedeans.org.uk', 'localhost', '127.0.0.1']
 

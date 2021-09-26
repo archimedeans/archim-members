@@ -13,7 +13,7 @@ with open(BASE_DIR / 'SECRET_KEY.txt') as f:
     SECRET_KEY = f.read().strip()
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['archim.soc.srcf.net', 'archim.org.uk', 'the-archimedeans.org.uk', 'www.archim.org.uk', 'www.the-archimedeans.org.uk', 'localhost', '127.0.0.1']
 

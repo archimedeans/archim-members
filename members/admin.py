@@ -2,4 +2,7 @@ from django.contrib import admin
 
 from .models import Member
 
-admin.site.register(Member)
+class MemberAdmin(admin.ModelAdmin):
+    search_fields = ['crsid', 'firstname', 'lastname']
+
+admin.site.register(Member, MemberAdmin)
